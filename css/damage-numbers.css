@@ -1,0 +1,56 @@
+/* ── Floating combat numbers (mobile-friendly, centered on screen) ── */
+
+@keyframes damageFloat {
+  0%   { transform: translate(-50%, 0) scale(1.5); opacity: 1; }
+  15%  { transform: translate(-50%, -20px) scale(1.8); opacity: 1; }
+  100% { transform: translate(-50%, -100px) scale(1); opacity: 0; }
+}
+
+@keyframes healFloat {
+  0%   { transform: translate(-50%, 0) scale(1.5); opacity: 1; }
+  15%  { transform: translate(-50%, -20px) scale(1.8); opacity: 1; }
+  100% { transform: translate(-50%, -100px) scale(1); opacity: 0; }
+}
+
+.damage-number {
+  position: fixed;
+  font-size: clamp(3rem, 10vw, 5rem);
+  font-weight: 900;
+  color: #ff2222;
+  text-shadow:
+    0 0 12px rgba(255, 0, 0, 0.9),
+    0 0 24px rgba(255, 0, 0, 0.5),
+    2px 2px 4px #000;
+  pointer-events: none;
+  transform: translateX(-50%);
+  animation: damageFloat 1.5s ease-out forwards;
+  z-index: 501;
+  font-family: inherit;
+  white-space: nowrap;
+  letter-spacing: 2px;
+}
+
+.heal-number {
+  position: fixed;
+  font-size: clamp(3rem, 10vw, 5rem);
+  font-weight: 900;
+  color: #22ff44;
+  text-shadow:
+    0 0 12px rgba(34, 255, 68, 0.9),
+    0 0 24px rgba(34, 255, 68, 0.5),
+    2px 2px 4px #000;
+  pointer-events: none;
+  transform: translateX(-50%);
+  animation: healFloat 1.5s ease-out forwards;
+  z-index: 501;
+  font-family: inherit;
+  white-space: nowrap;
+  letter-spacing: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .damage-number,
+  .heal-number {
+    animation-duration: 0.01ms;
+  }
+}
