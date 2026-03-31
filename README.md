@@ -62,7 +62,7 @@ tcg-src/
 ├── manifest.json             ← TCG format metadata
 ├── cards.json                ← 312 card stats
 ├── cards_description.json    ← card names + descriptions
-├── meta.json                 ← fusion recipes + starter decks
+├── starterDecks.json         ← pre-built starter decks per faction
 ├── id_migration.json         ← numeric → string ID mapping
 ├── races.json                ← race display metadata
 ├── attributes.json           ← attribute display metadata
