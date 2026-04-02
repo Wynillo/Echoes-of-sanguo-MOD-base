@@ -3257,7 +3257,7 @@
     "def": 400,
     "attribute": 1,
     "race": 2,
-    "effect": "onFlip:salvageFromGrave({ct=3})"
+    "effect": "onFlipSummon:salvageFromGrave({ct=3})"
   },
   {
     "id": 328,
@@ -3268,7 +3268,7 @@
     "def": 600,
     "attribute": 2,
     "race": 6,
-    "effect": "onFlip:discardEntireHand(both);draw(self,5);draw(opponent,5)"
+    "effect": "onFlipSummon:discardEntireHand(both);draw(self,5);draw(opponent,5)"
   },
   {
     "id": 329,
@@ -3279,7 +3279,7 @@
     "def": 500,
     "attribute": 2,
     "race": 3,
-    "effect": "onFlip:destroyStrongestOpp()"
+    "effect": "onFlipSummon:destroyStrongestOpp()"
   },
   {
     "id": 330,
@@ -3442,7 +3442,7 @@
     "def": 1400,
     "attribute": 1,
     "race": 5,
-    "effect": "onFlip:gameReset()"
+    "effect": "onFlipSummon:gameReset()"
   },
   {
     "id": 351,
@@ -3453,7 +3453,7 @@
     "def": 900,
     "attribute": 2,
     "race": 6,
-    "effect": "onFlip:destroyAll();excavateAndSummon(5,4)"
+    "effect": "onFlipSummon:destroyAll();excavateAndSummon(5,4)"
   },
   {
     "id": 352,
