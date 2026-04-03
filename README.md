@@ -2,7 +2,7 @@
 
 Base TCG package for the [Echoes of Sanguo](https://github.com/Wynillo/Echoes-of-Sanguo) game engine.
 
-Contains the complete base card set (312 cards), 39 opponents, a 7-chapter campaign, fusion recipes, shop configuration, and all core game data.
+Contains the complete base card set (355 cards, 312 with translations), 39 opponents, a 7-chapter campaign, fusion recipes, shop configuration, and all core game data.
 
 ## Building
 
@@ -60,19 +60,18 @@ await loadAndApplyTcg(buffer);
 tcg-src/
 ├── mod.json                  ← mod loader descriptor
 ├── manifest.json             ← TCG format metadata
-├── cards.json                ← 312 card stats
-├── cards_description.json    ← card names + descriptions
+├── cards.json                ← 355 card stats (312 translated, 43 in progress)
 ├── starterDecks.json         ← pre-built starter decks per faction
-├── races.json                ← race display metadata
-├── attributes.json           ← attribute display metadata
-├── card_types.json           ← card type display metadata
+├── races.json                ← race display metadata (12 races)
+├── attributes.json           ← attribute display metadata (6 attributes)
+├── card_types.json           ← card type display metadata (5 types)
 ├── rarities.json             ← rarity display metadata
 ├── fusion_formulas.json      ← race/attribute fusion formulas
 ├── shop.json                 ← booster pack definitions
 ├── campaign.json             ← 7-chapter campaign graph
-├── opponents/                ← 39 opponent decks
+├── opponents.json            ← 39 opponent decks
 ├── locales/                  ← translations (de, en)
-├── img/placeholders/         ← placeholder card artwork
+├── img/placeholders/         ← placeholder card artwork (per race)
 └── ui/                       ← UI assets
 ```
 
