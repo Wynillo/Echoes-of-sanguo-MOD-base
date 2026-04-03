@@ -1,14 +1,14 @@
 [
-  { "id": 1,  "key": "Dragon",      "value": "Dragon",      "color": "#8040c0", "icon": "GiDragonHead",      "emoji": "🐲" },
-  { "id": 2,  "key": "Spellcaster", "value": "Spellcaster", "color": "#6060c0", "icon": "GiWizardStaff",     "emoji": "🔮" },
-  { "id": 3,  "key": "Warrior",     "value": "Warrior",     "color": "#c09030", "icon": "GiSwordman",        "emoji": "⚔️" },
-  { "id": 4,  "key": "Beast",       "value": "Beast",       "color": "#e07030", "icon": "GiMechanicHead",    "emoji": "🐅" },
-  { "id": 5,  "key": "Plant",       "value": "Plant",       "color": "#40a050", "icon": "GiTreeface",        "emoji": "🌿" },
-  { "id": 6,  "key": "Rock",        "value": "Rock",        "color": "#808060", "icon": "GiRock",            "emoji": "🪨" },
-  { "id": 7,  "key": "Phoenix",     "value": "Phoenix",     "color": "#e06020", "icon": "GiFlame",           "emoji": "🔥" },
-  { "id": 8,  "key": "Undead",      "value": "Undead",      "color": "#804090", "icon": "GiSkull",           "emoji": "💀" },
-  { "id": 9,  "key": "Aqua",        "value": "Aqua",        "color": "#3080b0", "icon": "GiWater",           "emoji": "🌊" },
-  { "id": 10, "key": "Insect",      "value": "Insect",      "color": "#90a040", "icon": "GiButterfly",       "emoji": "🦋" },
-  { "id": 11, "key": "Machine",     "value": "Machine",     "color": "#708090", "icon": "GiMechanicalArm",    "emoji": "⚙️" },
-  { "id": 12, "key": "Pyro",        "value": "Pyro",        "color": "#c03010", "icon": "GiFire",            "emoji": "♨" }
+  { "id": 1,  "key": "Dragon",      "value": "Dragon",      "color": "#8040c0", "icon": "GiDragonHead" },
+  { "id": 2,  "key": "Spellcaster", "value": "Spellcaster", "color": "#6060c0", "icon": "GiWizardStaff" },
+  { "id": 3,  "key": "Warrior",     "value": "Warrior",     "color": "#c09030", "icon": "GiSwordman" },
+  { "id": 4,  "key": "Beast",       "value": "Beast",       "color": "#e07030", "icon": "GiTigerHead" },
+  { "id": 5,  "key": "Plant",       "value": "Plant",       "color": "#40a050", "icon": "GiTreeface" },
+  { "id": 6,  "key": "Rock",        "value": "Rock",        "color": "#808060", "icon": "GiRock" },
+  { "id": 7,  "key": "Phoenix",     "value": "Phoenix",     "color": "#e06020", "icon": "GiFlame" },
+  { "id": 8,  "key": "Undead",      "value": "Undead",      "color": "#804090", "icon": "GiSkull" },
+  { "id": 9,  "key": "Aqua",        "value": "Aqua",        "color": "#3080b0", "icon": "GiWater" },
+  { "id": 10, "key": "Insect",      "value": "Insect",      "color": "#90a040", "icon": "GiButterfly" },
+  { "id": 11, "key": "Machine",     "value": "Machine",     "color": "#708090", "icon": "GiMechanicalArm" },
+  { "id": 12, "key": "Pyro",        "value": "Pyro",        "color": "#c03010", "icon": "GiFire" }
 ]
