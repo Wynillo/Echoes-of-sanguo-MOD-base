@@ -408,5 +408,82 @@
       "name": "Kriegsherrs Waffenkammer",
       "desc": "9 Karten · Legendär · Alle Karten verfügbar"
     }
+  },
+  "campaign": {
+    "ch_han_court": "Kapitel 1: Der Hof der Han",
+    "ch_tournament": "Kapitel 2: Das Turnier",
+    "ch_return": "Kapitel 3: Die Rückkehr",
+    "ch_wu_xing": "Kapitel 4: Das Wu-Xing-Labyrinth",
+    "ch_betrayal": "Kapitel 5: Der Verrat",
+    "ch_endgame": "Kapitel 6: Endkampf",
+    "ch_postgame": "Kapitel 7: Jenseits des Horizonts",
+
+    "story_intro_1": "Die Han-Dynastie zerbricht. Kriegsherren zerteilen das Reich in verfeindete Königreiche, und das Volk leidet unter endlosem Krieg.",
+    "story_intro_2": "Doch inmitten des Chaos ist eine andere Art von Kampf entstanden — einer, der nicht mit Schwertern, sondern mit Karten der Macht ausgefochten wird.",
+    "story_intro_3": "Oh, ein neues Gesicht am kaiserlichen Hof! Ich bin Pang Tong. Sag mir — kennst du den Weg der Duellkarten?",
+    "story_intro_4": "Jede Karte birgt den Geist eines Kriegers, eines Biests oder eines Zaubers. Meistere sie, und du meisterst das Schlachtfeld selbst.",
+    "story_intro_5": "Nimm dieses Starterdeck. Beweise deinen Wert gegen die Duellanten des Hofes, und vielleicht verdienst du dir einen Platz im großen Turnier.",
+
+    "duel_7_post_1": "Beeindruckend. Du hast es tatsächlich geschafft, mich zu besiegen. Lass dir davon nicht zu Kopf steigen — ich habe mich nicht einmal angestrengt.",
+    "duel_7_post_2": "Aber merk dir meine Worte: Wenn wir uns das nächste Mal treffen, werde ich dich gnadenlos vernichten. Der Wei-Clan verliert kein zweites Mal.",
+    "duel_7_post_3": "Cao Pi ging mit einem kalten Lächeln. Sein Ehrgeiz war unverkennbar — diese Rivalität war noch lange nicht vorbei.",
+
+    "duel_8_post_1": "Der Gelbe Himmel wacht über alle. Du hast gut gekämpft, Kind, doch die Himmel lassen sich nicht allein von sterblicher Stärke bewegen.",
+    "duel_8_post_2": "Zhang Jues Zauberei erwies sich als zu mächtig. Die Karten zerstreuten sich wie Blätter im Sturm.",
+    "duel_8_post_3": "Ein blendendes Licht verschlang die Arena. Als es verblasste, hatte sich die Welt um dich... verändert.",
+    "duel_8_post_4": "Der kaiserliche Hof war verschwunden. An seiner Stelle stand ein unbekanntes Land — die Vergangenheit, oder vielleicht etwas noch Seltsameres.",
+
+    "story_arrival_1": "Nach tagelangem Wandern erreichtest du eine große, ummauerte Stadt. Banner in allen Farben hingen von ihren Türmen.",
+    "story_arrival_2": "Dies war das legendäre Turnier der Drei Reiche — wo die größten Duellanten aus allen Landen zusammenkamen.",
+    "story_arrival_3": "Der Preis: ein Satz Karten, die die Macht der uralten Fünf Elemente in sich tragen sollen.",
+    "story_arrival_4": "Um sie zu beanspruchen, müsstest du dich durch Qualifikation, Viertelfinale, Halbfinale und ein großes Finale kämpfen.",
+    "story_arrival_5": "Du trugst deinen Namen ein und betratest die Arena. Die Menge tobte. Das Turnier hatte begonnen.",
+
+    "duel_17_post_1": "Die letzte Karte traf das Feld, und die Menge brach in Jubel aus. Gegen alle Erwartungen hattest du das Turnier gewonnen.",
+    "duel_17_post_2": "Die Fünf-Elemente-Karten gehörten dir. Doch als du sie hieltest, pulsierte eine seltsame Energie durch deine Fingerspitzen.",
+    "duel_17_post_3": "Etwas erwachte — etwas Uraltes und Mächtiges. Die Karten schienen dich an einen fernen Ort zu rufen.",
+
+    "story_return_1": "Geführt vom Sog der Fünf-Elemente-Karten reistest du tief in die Wildnis jenseits der Stadtmauern.",
+    "story_return_2": "Bekannte Gesichter tauchten am Wegesrand auf — alte Rivalen, die eine Revanche suchten, und neue Feinde, angelockt von deinem wachsenden Ruhm.",
+    "story_return_3": "Die Karten pulsierten mit jedem Schritt stärker. Was auch immer vor dir lag — es gab kein Zurück mehr.",
+    "story_return_4": "Endlich standest du vor einem gewaltigen Steintor, verziert mit den Symbolen von Wasser, Holz, Erde, Metall und Feuer.",
+
+    "duel_31_pre_1": "Du wagst es, mein Reich zu betreten? Ich bin Mi Hun — ich bin das Labyrinth, und das Labyrinth bin ich.",
+    "duel_31_pre_2": "Jede Seele, die durch diese Hallen irrt, nährt meine Macht. Deine Fünf-Elemente-Karten haben dich hergerufen — aber sie werden dich nicht retten.",
+    "duel_31_pre_3": "Dann komm, Sterblicher. Lass uns sehen, ob deine Karten entwirren können, was dein Verstand nicht begreift.",
+
+    "duel_31_post_1": "Das Labyrinth erbebte und begann einzustürzen. Mi Huns Gestalt löste sich in Nebel auf, mit einem letzten, hallenden Flüstern.",
+    "duel_31_post_2": "Als die Mauern zerfielen, wurde ein verborgener Durchgang enthüllt — tiefer in den Untergrund, zu einem schwachen, unheilvollem Leuchten.",
+
+    "story_betrayal_1": "Du tratest aus dem Labyrinth ins Tageslicht, nur um eine vertraute Gestalt am Ausgang warten zu sehen.",
+    "story_betrayal_2": "Überrascht? Das solltest du nicht sein. Ich habe deinen Fortschritt seit dem Turnier verfolgt. Diese Fünf-Elemente-Karten — ich brauche sie.",
+    "story_betrayal_3": "Mein Vater verlangt Macht, und ich werde sie ihm bringen. Gib die Karten heraus, oder ich nehme sie mir mit Gewalt.",
+    "story_betrayal_4": "Hast du wirklich geglaubt, wir wären Rivalen? Nein — du warst nur eine Schachfigur, ausgesandt, um zu sammeln, was ich allein nicht erreichen konnte.",
+    "story_betrayal_5": "Cao Pi zog sein Deck. Es würde keine Verhandlung geben. Nur den Kampf.",
+
+    "duel_32_post_1": "Cao Pi taumelte zurück, seine Karten über den Boden verstreut. Die Niederlage stand ihm ins Gesicht geschrieben.",
+    "duel_32_post_2": "Das... das ändert nichts. Mein Vater wird trotzdem bekommen, was er will. Du hast keine Ahnung, was auf dich zukommt.",
+    "duel_32_post_3": "Er verschwand in den Schatten. Seine Worte blieben — wer war der wahre Feind, der im Hintergrund die Fäden zog?",
+
+    "duel_35_post_1": "Zhang Jue sank auf die Knie, seine mystische Aura flackerte und verblasste wie eine sterbende Flamme.",
+    "duel_35_post_2": "Du bist stark geworden... doch ich war nie die wahre Bedrohung. Derjenige, der mich beschwor — er lauert noch immer in den Schatten.",
+    "duel_35_post_3": "Bevor du ihn weiter befragen konntest, riss ein dunkles Portal hinter dem gefallenen Zauberer auf. Etwas Gewaltiges regte sich darin.",
+
+    "story_alliance_1": "Zu deiner Überraschung erschien Cao Pi am Rand des Schlachtfeldes — nicht als Feind, sondern mit ausgestreckter Hand.",
+    "story_alliance_2": "Ich weiß, was du denkst. Aber mein Vater ist zu weit gegangen. Er plant, Lu Bu zu entfesseln — den Kriegsdämon selbst.",
+    "story_alliance_3": "Keiner von uns kann ihn allein aufhalten. Für jetzt — lasst uns unsere Kräfte vereinen. Wenn das hier vorbei ist... werden wir sehen.",
+    "story_alliance_4": "Ein unbehagliches Bündnis wurde geschmiedet. Gemeinsam drängtet ihr vorwärts, ins Herz des aufziehenden Sturms.",
+
+    "duel_37_post_1": "Lu Bu stieß ein donnerndes Brüllen aus, als er fiel. Doch der Boden unter euch begann heftig zu beben.",
+    "duel_37_post_2": "Der Körper des Kriegers brach in purpurrotem Licht auf. Als es verblasste, stand Lu Bu erneut — auf dem legendären Roten Hasen reitend.",
+
+    "duel_38_post_1": "Endlich brach Lu Bu endgültig zusammen. Der Rote Hase löste sich in Glut auf, die der Wind davontrug.",
+    "duel_38_post_2": "Doch aus den Schatten hinter dem gefallenen Krieger ertönte ein langsames, bedächtiges Klatschen über das Schlachtfeld.",
+    "duel_38_post_3": "Gut gespielt, ihr beide. Doch jede Figur auf diesem Brett hat sich genau so bewegt, wie ich es beabsichtigt habe. Nun — lasst mich euch das Deck eines wahren Meisters zeigen.",
+
+    "duel_39_post_1": "Cao Caos letzte Karte zerbrach. Der Drahtzieher starrte ungläubig auf seine leere Hand und begann dann zu lachen.",
+    "duel_39_post_2": "Die Fünf-Elemente-Karten erstrahlten in hellem Licht, und die dunkle Energie, die die Welt zerrissen hatte, begann sich zurückzuziehen.",
+    "duel_39_post_3": "Der Himmel klärte sich. Das Land heilte. Die Echos der Drei Reiche verklangen in sanfter Stille.",
+    "duel_39_post_4": "Deine Reise war vorüber — doch die Karten blieben, leise summend, als warteten sie auf den nächsten großen Duellanten."
   }
 }
