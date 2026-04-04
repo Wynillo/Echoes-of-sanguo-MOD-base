@@ -1,1581 +1,257 @@
 {
   "cards": {
-    "1": {
-      "name": "Shadow Hatchling",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "2": {
-      "name": "Darkscale Drake",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "3": {
-      "name": "Flame Whelp",
-      "description": "A mighty dragon wreathed in scorching flames."
-    },
-    "4": {
-      "name": "Nightfang Dragon",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "5": {
-      "name": "Duskwing Serpent",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "6": {
-      "name": "Ember Wyrm",
-      "description": "A mighty dragon wreathed in scorching flames."
-    },
-    "7": {
-      "name": "Obsidian Dragon",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "8": {
-      "name": "Twilight Drake",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "9": {
-      "name": "Crimson Fang Dragon",
-      "description": "A mighty dragon wreathed in scorching flames."
-    },
-    "10": {
-      "name": "Moonscale Dragon",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "11": {
-      "name": "Dark Tempest Dragon",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "12": {
-      "name": "Inferno Serpent",
-      "description": "A mighty dragon wreathed in scorching flames."
-    },
-    "13": {
-      "name": "Shadowflame Dragon",
-      "description": "A fearsome dragon that commands dark energy."
-    },
-    "14": {
-      "name": "Voidfire Dragon",
-      "description": "[Passive] Gains +300 ATK when battling a Light monster."
-    },
-    "15": {
-      "name": "Dread Dragon Lord",
-      "description": "[Effect] On Summon: All your Dragon monsters gain +200 ATK/DEF."
-    },
-    "16": {
-      "name": "Blazescale Wyvern",
-      "description": "[Effect] On Summon: All Dragon allies temporarily gain +200 ATK/DEF."
-    },
-    "17": {
-      "name": "Eclipse Dragon",
-      "description": "[Effect] When destroyed in battle: Draw 1 card."
-    },
-    "18": {
-      "name": "Flamecrest Dragon",
-      "description": "[Effect] On Summon: All your Dragon monsters gain +300 ATK/DEF."
-    },
-    "19": {
-      "name": "Abyssal Dragon",
-      "description": "[Effect] On Summon: Send the top 3 cards of your deck to the graveyard."
-    },
-    "20": {
-      "name": "Darkstorm Wyrm",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "21": {
-      "name": "Shadow Dragon King",
-      "description": "[Effect] On Summon: All your Dragon monsters gain +400 ATK/DEF."
-    },
-    "22": {
-      "name": "Hellfire Dragon",
-      "description": "[Effect] On Summon: Special Summon 1 monster from your graveyard."
-    },
-    "23": {
-      "name": "Nightfall Wyrm",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "24": {
-      "name": "Chaos Dragon Emperor",
-      "description": "[Effect] On Summon: Special Summon 1 monster (ATK 1500 or less) from your hand."
-    },
-    "25": {
-      "name": "Supreme Dragon Lord",
-      "description": "[Effect] On Summon: All your Dragon monsters gain +500 ATK/DEF."
-    },
-    "26": {
-      "name": "Recruit",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "27": {
-      "name": "Foot Soldier",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "28": {
-      "name": "Lancer",
-      "description": "A courageous fighter blessed with radiant light."
-    },
-    "29": {
-      "name": "Spear Fighter",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "30": {
-      "name": "Lance Rider",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "31": {
-      "name": "Sword Runner",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "32": {
-      "name": "Blade Warden",
-      "description": "A courageous fighter blessed with radiant light."
-    },
-    "33": {
-      "name": "Shield Master",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "34": {
-      "name": "Battle Commander",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "35": {
-      "name": "Blade Lord",
-      "description": "A courageous fighter blessed with radiant light."
-    },
-    "36": {
-      "name": "Battle Titan",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "37": {
-      "name": "Sword Lord",
-      "description": "A disciplined warrior wielding the strength of earth."
-    },
-    "38": {
-      "name": "Shield Lord",
-      "description": "A courageous fighter blessed with radiant light."
-    },
-    "39": {
-      "name": "Warlord",
-      "description": "[Effect] On Summon: One of your monsters gains +400 ATK until end of turn."
-    },
-    "40": {
-      "name": "Blade Prince",
-      "description": "[Effect] On Summon: One of your monsters permanently gains +200 ATK."
-    },
-    "41": {
-      "name": "Iron General",
-      "description": "[Effect] On Summon: All your Warrior monsters gain +200 ATK/DEF."
-    },
-    "42": {
-      "name": "War Marshal",
-      "description": "[Effect] On Summon: One of your monsters gains +500 ATK until end of turn."
-    },
-    "43": {
-      "name": "Dragon Slayer",
-      "description": "[Effect] When destroyed in battle: Draw 1 card."
-    },
-    "44": {
-      "name": "Celestial Warrior",
-      "description": "[Effect] On Summon: One of your monsters permanently gains +300 ATK."
-    },
-    "45": {
-      "name": "Crimson Blade",
-      "description": "[Effect] On Summon: All your Warrior monsters gain +300 ATK/DEF."
-    },
-    "46": {
-      "name": "Jade Guardian",
-      "description": "[Effect] On Summon: One of your monsters gains +600 ATK until end of turn."
-    },
-    "47": {
-      "name": "Thunder Knight",
-      "description": "[Effect] On Summon: One of your monsters permanently gains +400 ATK."
-    },
-    "48": {
-      "name": "Phantom Swordsman",
-      "description": "[Effect] On Summon: All your Warrior monsters gain +400 ATK/DEF."
-    },
-    "49": {
-      "name": "Golden Vanguard",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "50": {
-      "name": "Grand Champion",
-      "description": "[Effect] On Summon: One of your monsters permanently gains +500 ATK."
-    },
-    "51": {
-      "name": "Imperial Warlord",
-      "description": "[Effect] On Summon: All your Warrior monsters gain +500 ATK/DEF."
-    },
-    "52": {
-      "name": "Heaven's Blade",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "53": {
-      "name": "Tempest Duelist",
-      "description": "[Effect] On Summon: One of your monsters gains +700 ATK until end of turn."
-    },
-    "54": {
-      "name": "Arcane Scholar",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "55": {
-      "name": "Hex Weaver",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "56": {
-      "name": "Spell Sage",
-      "description": "A mysterious sorcerer attuned to dark forces."
-    },
-    "57": {
-      "name": "Rune Master",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "58": {
-      "name": "Archmage",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "59": {
-      "name": "Grand Sorcerer",
-      "description": "A mysterious sorcerer attuned to dark forces."
-    },
-    "60": {
-      "name": "Void Mage",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "61": {
-      "name": "Starlight Diviner",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "62": {
-      "name": "Shadow Enchanter",
-      "description": "A mysterious sorcerer attuned to dark forces."
-    },
-    "63": {
-      "name": "Jade Mystic",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "64": {
-      "name": "Lunar Invoker",
-      "description": "A skilled mage who channels the power of light."
-    },
-    "65": {
-      "name": "Dusk Conjurer",
-      "description": "A mysterious sorcerer attuned to dark forces."
-    },
-    "66": {
-      "name": "Oracle of Light",
-      "description": "[Effect] On Summon: Add 1 card from your Deck to your hand."
-    },
-    "67": {
-      "name": "Celestial Sage",
-      "description": "[Effect] On Summon: All opponent monsters lose 200 ATK and 200 DEF."
-    },
-    "68": {
-      "name": "Twilight Warlock",
-      "description": "[Effect] When destroyed in battle: Draw 2 cards."
-    },
-    "69": {
-      "name": "Healing Sage",
-      "description": "[Effect] On Summon: Gain 800 LP."
-    },
-    "70": {
-      "name": "Grand Diviner",
-      "description": "[Effect] On Summon: Add 1 card from your Deck to your hand."
-    },
-    "71": {
-      "name": "Dark Illusionist",
-      "description": "[Effect] On Summon: All opponent monsters lose 300 ATK and 300 DEF."
-    },
-    "72": {
-      "name": "Radiant Spellweaver",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "73": {
-      "name": "Mind Shatter Mage",
-      "description": "[Effect] On Summon: All opponent monsters lose 400 ATK and 300 DEF."
-    },
-    "74": {
-      "name": "Shadow Oracle",
-      "description": "[Effect] On Summon: Add 1 card from your Deck to your hand."
-    },
-    "75": {
-      "name": "Spirit Banisher",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "76": {
-      "name": "Supreme Enchantress",
-      "description": "[Effect] On Summon: All opponent monsters lose 500 ATK and 400 DEF."
-    },
-    "77": {
-      "name": "Immortal Sage",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "78": {
-      "name": "Chaos Sorcerer",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "79": {
-      "name": "War Elephant",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "80": {
-      "name": "Mountain Lion",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "81": {
-      "name": "Dire Wolf",
-      "description": "A mighty creature infused with the power of earth."
-    },
-    "82": {
-      "name": "Savage Boar",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "83": {
-      "name": "Alpha Predator",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "84": {
-      "name": "King of Beasts",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "85": {
-      "name": "Iron Stag",
-      "description": "A mighty creature infused with the power of earth."
-    },
-    "86": {
-      "name": "Blazeclaw Tiger",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "87": {
-      "name": "Firemane Lion",
-      "description": "A ferocious beast born from the flames of battle."
-    },
-    "88": {
-      "name": "Embertusk Boar",
-      "description": "[Effect] On Summon: Opponent discards 1 card from their hand."
-    },
-    "89": {
-      "name": "Stampede Bull",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "90": {
-      "name": "Scorchfang Panther",
-      "description": "[Passive] Gains +400 ATK when battling a Water monster."
-    },
-    "91": {
-      "name": "Inferno Tiger",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "92": {
-      "name": "Ancient Tortoise",
-      "description": "[Effect] When destroyed in battle: Gain 800 LP."
-    },
-    "93": {
-      "name": "Thundermaw Bear",
-      "description": "[Effect] On Summon: All opponent's monsters lose 300 ATK and DEF."
-    },
-    "94": {
-      "name": "Jungle Lord",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "95": {
-      "name": "Sacred Qilin",
-      "description": "[Effect] On Summon: Add 1 monster from your graveyard to your hand."
-    },
-    "96": {
-      "name": "Divine Beast King",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "97": {
-      "name": "Raging Behemoth",
-      "description": "[Passive] Piercing: Deals battle damage even when attacking a DEF position monster."
-    },
-    "98": {
-      "name": "Swift Raptor",
-      "description": "[Passive] This monster can attack directly."
-    },
-    "99": {
-      "name": "Seedling",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "100": {
-      "name": "Thorn Sprout",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "101": {
-      "name": "Willow Wisp",
-      "description": "A mystical flora channeling the force of wind."
-    },
-    "102": {
-      "name": "Vine Creeper",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "103": {
-      "name": "Bamboo Sentinel",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "104": {
-      "name": "Moss Guardian",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "105": {
-      "name": "Windbloom Fern",
-      "description": "A mystical flora channeling the force of wind."
-    },
-    "106": {
-      "name": "Lotus Spirit",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "107": {
-      "name": "Root Walker",
-      "description": "A sentient plant thriving with earth energy."
-    },
-    "108": {
-      "name": "Gale Blossom",
-      "description": "A mystical flora channeling the force of wind."
-    },
-    "109": {
-      "name": "Ancient Treant",
-      "description": "[Effect] When destroyed in battle: Gain 800 LP."
-    },
-    "110": {
-      "name": "Jade Lotus",
-      "description": "[Effect] On Summon: Gain 600 LP."
-    },
-    "111": {
-      "name": "Stormleaf Guardian",
-      "description": "[Effect] When destroyed in battle: Draw 1 card."
-    },
-    "112": {
-      "name": "Ironbark Titan",
-      "description": "[Effect] On Summon: One of your monsters gains +300 DEF until end of turn."
-    },
-    "113": {
-      "name": "Sacred Peach Tree",
-      "description": "[Effect] When destroyed in battle: Gain 1200 LP."
-    },
-    "114": {
-      "name": "World Tree",
-      "description": "[Effect] On Summon: Gain 1200 LP."
-    },
-    "115": {
-      "name": "Celestial Orchid",
-      "description": "[Effect] On Summon: All your Plant monsters gain +300 ATK/DEF."
-    },
-    "116": {
-      "name": "Eternal Banyan",
-      "description": "[Effect] When destroyed in battle: Gain 1800 LP."
-    },
-    "117": {
-      "name": "Pebble",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "118": {
-      "name": "Stone Shard",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "119": {
-      "name": "Obsidian Sentry",
-      "description": "An ancient rock formation infused with dark energy."
-    },
-    "120": {
-      "name": "Boulder",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "121": {
-      "name": "Rock Sentinel",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "122": {
-      "name": "Granite Guard",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "123": {
-      "name": "Dark Ore Golem",
-      "description": "An ancient rock formation infused with dark energy."
-    },
-    "124": {
-      "name": "Iron Ore Colossus",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "125": {
-      "name": "Jade Stone",
-      "description": "A massive stone creature animated by earth power."
-    },
-    "126": {
-      "name": "Onyx Golem",
-      "description": "An ancient rock formation infused with dark energy."
-    },
-    "127": {
-      "name": "Basalt Warden",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "128": {
-      "name": "Crystal Colossus",
-      "description": "[Effect] On Summon: All opponent monsters lose 200 ATK and 100 DEF."
-    },
-    "129": {
-      "name": "Shadow Monolith",
-      "description": "[Effect] On Summon: One of your monsters gains +400 DEF until end of turn."
-    },
-    "130": {
-      "name": "Earthquake Giant",
-      "description": "[Effect] When destroyed in battle: Draw 1 card."
-    },
-    "131": {
-      "name": "Mountain Titan",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "132": {
-      "name": "Dark Mountain Lord",
-      "description": "[Effect] On Summon: All opponent monsters lose 300 ATK and 200 DEF."
-    },
-    "133": {
-      "name": "Diamond Fortress",
-      "description": "[Effect] On Summon: All opponent monsters lose 400 ATK and 300 DEF."
-    },
-    "134": {
-      "name": "Primordial Colossus",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "135": {
-      "name": "Obsidian Emperor",
-      "description": "[Effect] On Summon: All opponent monsters lose 500 ATK and 400 DEF."
-    },
-    "136": {
-      "name": "Earth Colossus",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "137": {
-      "name": "Spark",
-      "description": "A radiant firebird blazing with fierce flames."
-    },
-    "138": {
-      "name": "Cinder Bird",
-      "description": "A radiant firebird blazing with fierce flames."
-    },
-    "139": {
-      "name": "Wind Swallow",
-      "description": "An immortal bird soaring on winds of rebirth."
-    },
-    "140": {
-      "name": "Fire Swallow",
-      "description": "A radiant firebird blazing with fierce flames."
-    },
-    "141": {
-      "name": "Ember Crane",
-      "description": "A radiant firebird blazing with fierce flames."
-    },
-    "142": {
-      "name": "Blaze Falcon",
-      "description": "A radiant firebird blazing with fierce flames."
-    },
-    "143": {
-      "name": "Gale Phoenix",
-      "description": "An immortal bird soaring on winds of rebirth."
-    },
-    "144": {
-      "name": "Solar Hawk",
-      "description": "[Effect] On Summon: Look at the top card of your deck, then draw 1 card."
-    },
-    "145": {
-      "name": "Inferno Raptor",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "146": {
-      "name": "Stormfire Heron",
-      "description": "[Passive] This monster can attack the opponent directly."
-    },
-    "147": {
-      "name": "Crimson Firebird",
-      "description": "[Effect] On Summon: One of your monsters gains +400 ATK until end of turn."
-    },
-    "148": {
-      "name": "Golden Phoenix",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "149": {
-      "name": "Blazewing Sovereign",
-      "description": "[Passive] This monster is immune to opponent's card effects."
-    },
-    "150": {
-      "name": "Celestial Phoenix",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "151": {
-      "name": "Phoenix Emperor",
-      "description": "[Effect] On Summon: Deal 1000 damage to opponent."
-    },
-    "152": {
-      "name": "Skeleton",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "153": {
-      "name": "Ghoul",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "154": {
-      "name": "Bone Warrior",
-      "description": "An undead creature risen through earth magic."
-    },
-    "155": {
-      "name": "Restless Spirit",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "156": {
-      "name": "Zombie Soldier",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "157": {
-      "name": "Phantom",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "158": {
-      "name": "Bone Knight",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "159": {
-      "name": "Grave Golem",
-      "description": "An undead creature risen through earth magic."
-    },
-    "160": {
-      "name": "Wraith",
-      "description": "A restless spirit bound by dark sorcery."
-    },
-    "161": {
-      "name": "Death Knight",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "162": {
-      "name": "Soul Harvester",
-      "description": "[Effect] When destroyed in battle: Gain 900 LP."
-    },
-    "163": {
-      "name": "Lich",
-      "description": "[Effect] When destroyed in battle: Draw 2 cards."
-    },
-    "164": {
-      "name": "Vampire Lord",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "165": {
-      "name": "Soul Devourer",
-      "description": "[Effect] On Summon: Gain 900 LP."
-    },
-    "166": {
-      "name": "Undead General",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "167": {
-      "name": "Lord of the Dead",
-      "description": "[Effect] When destroyed in battle: Gain 1500 LP."
-    },
-    "168": {
-      "name": "Netherworld King",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "169": {
-      "name": "Abyssal Revenant",
-      "description": "[Effect] On Summon: All opponent monsters lose 400 ATK and 300 DEF."
-    },
-    "170": {
-      "name": "Tadpole",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "171": {
-      "name": "Jellyfish",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "172": {
-      "name": "Wind Koi",
-      "description": "A swift aquatic spirit riding wind-touched waves."
-    },
-    "173": {
-      "name": "Reef Fish",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "174": {
-      "name": "River Sprite",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "175": {
-      "name": "Tide Walker",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "176": {
-      "name": "Deep Diver",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "177": {
-      "name": "Coral Guardian",
-      "description": "A swift aquatic spirit riding wind-touched waves."
-    },
-    "178": {
-      "name": "Sea Witch",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "179": {
-      "name": "Abyssal Angler",
-      "description": "A graceful water creature of the deep currents."
-    },
-    "180": {
-      "name": "Leviathan",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "181": {
-      "name": "Gale Mermaid",
-      "description": "[Effect] On Summon: One of your monsters gains +350 DEF until end of turn."
-    },
-    "182": {
-      "name": "Ocean Sage",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "183": {
-      "name": "Depth Oracle",
-      "description": "[Effect] On Summon: Add 1 card from your Deck to your hand."
-    },
-    "184": {
-      "name": "Storm Serpent",
-      "description": "[Effect] On Summon: All opponent monsters lose 300 ATK and 200 DEF."
-    },
-    "185": {
-      "name": "Tidal Lord",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "186": {
-      "name": "Frost Kraken",
-      "description": "[Effect] On Summon: One of your monsters gains +500 DEF until end of turn."
-    },
-    "187": {
-      "name": "Abyssal Sovereign",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "188": {
-      "name": "Ocean Emperor",
-      "description": "[Passive] This monster cannot be targeted by effects."
-    },
-    "189": {
-      "name": "Jade Sea Dragon",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "190": {
-      "name": "Larva",
-      "description": "A swift insect empowered by the wind."
-    },
-    "191": {
-      "name": "Firefly",
-      "description": "A swift insect empowered by the wind."
-    },
-    "192": {
-      "name": "Scarab",
-      "description": "A resilient bug creature of the earth."
-    },
-    "193": {
-      "name": "Windhopper",
-      "description": "A swift insect empowered by the wind."
-    },
-    "194": {
-      "name": "Mantis",
-      "description": "A swift insect empowered by the wind."
-    },
-    "195": {
-      "name": "Beetle Guard",
-      "description": "A swift insect empowered by the wind."
-    },
-    "196": {
-      "name": "Gale Moth",
-      "description": "A swift insect empowered by the wind."
-    },
-    "197": {
-      "name": "Burrowing Centipede",
-      "description": "A resilient bug creature of the earth."
-    },
-    "198": {
-      "name": "Wasp Warrior",
-      "description": "A swift insect empowered by the wind."
-    },
-    "199": {
-      "name": "Silk Spinner",
-      "description": "[Effect] On Summon: One of your monsters gains +300 ATK until end of turn."
-    },
-    "200": {
-      "name": "Hive Commander",
-      "description": "[Effect] On Summon: All your Insect monsters gain +250 ATK/DEF."
-    },
-    "201": {
-      "name": "Thunder Beetle",
-      "description": "[Effect] When destroyed in battle: Draw 2 cards."
-    },
-    "202": {
-      "name": "Scorpion King",
-      "description": "[Effect] On Summon: One of your monsters gains +500 ATK until end of turn."
-    },
-    "203": {
-      "name": "Swarm Queen",
-      "description": "[Effect] On Summon: All your Insect monsters gain +350 ATK/DEF."
-    },
-    "204": {
-      "name": "Sand Worm",
-      "description": "[Effect] On Summon: All your Insect monsters gain +400 ATK/DEF."
-    },
-    "205": {
-      "name": "Earth Borer",
-      "description": "[Effect] On Summon: One of your monsters gains +600 ATK until end of turn."
-    },
-    "206": {
-      "name": "Insect Emperor",
-      "description": "[Effect] On Summon: All your Insect monsters gain +500 ATK/DEF."
-    },
-    "207": {
-      "name": "Windstorm Locust",
-      "description": "[Passive] This monster can attack directly."
-    },
-    "208": {
-      "name": "Cog",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "209": {
-      "name": "Gear Soldier",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "210": {
-      "name": "Iron Digger",
-      "description": "An advanced automaton powered by earth force."
-    },
-    "211": {
-      "name": "Spark Automaton",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "212": {
-      "name": "Bronze Sentry",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "213": {
-      "name": "Earth Crawler",
-      "description": "An advanced automaton powered by earth force."
-    },
-    "214": {
-      "name": "Clockwork Knight",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "215": {
-      "name": "Luminous Mech",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "216": {
-      "name": "Siege Golem",
-      "description": "An advanced automaton powered by earth force."
-    },
-    "217": {
-      "name": "Radiant Automaton",
-      "description": "A mechanical construct driven by radiant energy."
-    },
-    "218": {
-      "name": "Steel Colossus",
-      "description": "[Effect] On Summon: All your Machine monsters gain +200 ATK/DEF."
-    },
-    "219": {
-      "name": "Iron Juggernaut",
-      "description": "[Effect] On Summon: One of your monsters gains +300 ATK until end of turn."
-    },
-    "220": {
-      "name": "War Machine",
-      "description": "[Effect] On Summon: All your Machine monsters gain +300 ATK/DEF."
-    },
-    "221": {
-      "name": "Cannon Golem",
-      "description": "[Effect] On Summon: Destroy opponent's weakest monster."
-    },
-    "222": {
-      "name": "Mecha Titan",
-      "description": "[Effect] On Summon: One of your monsters gains +400 ATK until end of turn."
-    },
-    "223": {
-      "name": "Sky Fortress",
-      "description": "[Effect] On Summon: All your Machine monsters gain +400 ATK/DEF."
-    },
-    "224": {
-      "name": "Iron Fortress",
-      "description": "[Effect] On Summon: All your Machine monsters gain +500 ATK/DEF."
-    },
-    "225": {
-      "name": "Omega Machine",
-      "description": "[Effect] On Summon: One of your monsters gains +500 ATK until end of turn."
-    },
-    "226": {
-      "name": "Heaven's Automaton",
-      "description": "[Effect] On Summon: All your Machine monsters gain +600 ATK/DEF."
-    },
-    "227": {
-      "name": "Mecha Dragon",
-      "description": "[Effect] On Summon: All opponent monsters lose 400 ATK and 300 DEF."
-    },
-    "228": {
-      "name": "Ember Sprite",
-      "description": "A blazing pyro creature born from pure fire."
-    },
-    "229": {
-      "name": "Fire Imp",
-      "description": "A blazing pyro creature born from pure fire."
-    },
-    "230": {
-      "name": "Flash Flare",
-      "description": "A volatile fire entity radiating brilliant light."
-    },
-    "231": {
-      "name": "Lava Slug",
-      "description": "A blazing pyro creature born from pure fire."
-    },
-    "232": {
-      "name": "Flame Djinn",
-      "description": "A blazing pyro creature born from pure fire."
-    },
-    "233": {
-      "name": "Solar Wisp",
-      "description": "A volatile fire entity radiating brilliant light."
-    },
-    "234": {
-      "name": "Molten Golem",
-      "description": "A blazing pyro creature born from pure fire."
-    },
-    "235": {
-      "name": "Inferno Hound",
-      "description": "A blazing pyro creature born from pure fire."
-    },
-    "236": {
-      "name": "Blaze Elemental",
-      "description": "A volatile fire entity radiating brilliant light."
-    },
-    "237": {
-      "name": "Volcanic Giant",
-      "description": "[Effect] On Summon: Return 1 monster from your graveyard to your deck."
-    },
-    "238": {
-      "name": "Fire Lord",
-      "description": "[Passive] This monster cannot be destroyed by battle or card effects."
-    },
-    "239": {
-      "name": "Solar Titan",
-      "description": "[Passive] This monster cannot be targeted for attacks."
-    },
-    "240": {
-      "name": "Magma Dragon",
-      "description": "[Effect] On Summon: One of your monsters gains +400 ATK until end of turn."
-    },
-    "241": {
-      "name": "Hellfire Knight",
-      "description": "[Effect] On Summon: Discard 1 card from your hand, then draw 2 cards."
-    },
-    "242": {
-      "name": "Inferno Colossus",
-      "description": "[Effect] On Summon: Shuffle your graveyard into your deck, then draw 1 card."
-    },
-    "243": {
-      "name": "Radiant Pyre",
-      "description": "[Effect] On Summon: One of your monsters gains +500 ATK until end of turn."
-    },
-    "244": {
-      "name": "Eruption King",
-      "description": "[Effect] On Summon: Deal 1000 damage to opponent."
-    },
-    "245": {
-      "name": "Hellfire Sovereign",
-      "description": "[Effect] When destroyed by opponent: Deal 1500 damage to opponent."
-    },
-    "246": {
-      "name": "Dragonflame Fury",
-      "description": "[Effect] On Summon: All your monsters temporarily gain +300 ATK/DEF."
-    },
-    "247": {
-      "name": "Supreme Dragonlord",
-      "description": "[Effect] On Summon: All opponent monsters lose 500 ATK and 400 DEF."
-    },
-    "248": {
-      "name": "Twilight Enchanter",
-      "description": "[Effect] On Summon: Draw 1 card."
-    },
-    "249": {
-      "name": "Grand Shadowcaster",
-      "description": "[Effect] On Summon: Return opponent's strongest monster to their hand."
-    },
-    "250": {
-      "name": "Earth's Vanguard",
-      "description": "[Effect] On Summon: All your Warrior monsters gain +300 ATK/DEF."
-    },
-    "251": {
-      "name": "Imperial War God",
-      "description": "[Effect] On Summon: One of your monsters permanently gains +500 ATK."
-    },
-    "252": {
-      "name": "Stampede Chimera",
-      "description": "[Effect] On Summon: One of your monsters gains +400 ATK until end of turn."
-    },
-    "253": {
-      "name": "Sacred Beast Emperor",
-      "description": "[Effect] On Summon: Shuffle your deck, then add 1 monster from your deck to your hand."
-    },
-    "254": {
-      "name": "Lotus Treeguard",
-      "description": "[Effect] On Summon: Gain 1200 LP."
-    },
-    "255": {
-      "name": "Eternal Grove Spirit",
-      "description": "[Effect] On Summon: One of your monsters permanently gains +500 DEF."
-    },
-    "256": {
-      "name": "Granite Overlord",
-      "description": "[Effect] On Summon: One of your monsters gains +500 DEF until end of turn."
-    },
-    "257": {
-      "name": "Primordial Earth Titan",
-      "description": "[Effect] On Summon: All opponent monsters lose 300 ATK and 500 DEF."
-    },
-    "258": {
-      "name": "Blazewing Wyvern",
-      "description": "[Effect] On Summon: Send the top 2 cards of opponent's deck to the graveyard."
-    },
-    "259": {
-      "name": "Immortal Phoenix Lord",
-      "description": "[Passive] When destroyed: Special Summon this monster from the Graveyard once."
-    },
-    "260": {
-      "name": "Spectral Warlord",
-      "description": "[Effect] On Summon: All opponent monsters lose 400 ATK until end of turn."
-    },
-    "261": {
-      "name": "Netherworld Overlord",
-      "description": "[Effect] When destroyed in battle: Draw 2 cards."
-    },
-    "262": {
-      "name": "Tidal Dragon",
-      "description": "[Effect] On Summon: Gain 900 LP."
-    },
-    "263": {
-      "name": "Abyssal Sea God",
-      "description": "[Effect] On Summon: All your Water monsters gain +400 ATK/DEF."
-    },
-    "264": {
-      "name": "Ironshell Mantis",
-      "description": "[Effect] On Summon: Draw 1 card."
-    },
-    "265": {
-      "name": "Swarm Overlord",
-      "description": "[Effect] On Summon: One of your monsters gains +600 ATK until end of turn."
-    },
-    "266": {
-      "name": "Flame Arrow",
-      "description": "Deal 300 damage to opponent."
-    },
-    "267": {
-      "name": "Fireball",
-      "description": "Destroy opponent's weakest monster."
-    },
-    "268": {
-      "name": "Inferno Blast",
-      "description": "Deal 500 damage to opponent."
-    },
-    "269": {
-      "name": "Herbal Remedy",
-      "description": "Gain 600 LP."
-    },
-    "270": {
-      "name": "Jade Elixir",
-      "description": "Gain 800 LP."
-    },
-    "271": {
-      "name": "Heavenly Blessing",
-      "description": "Gain 1500 LP."
-    },
-    "272": {
-      "name": "Dragon's Breath",
-      "description": "Destroy opponent's strongest monster."
-    },
-    "273": {
-      "name": "Thunder Strike",
-      "description": "Send the top 3 cards of opponent's deck to the graveyard."
-    },
-    "274": {
-      "name": "Warrior's Rally",
-      "description": "One of your monsters gains +300 ATK until end of turn."
-    },
-    "275": {
-      "name": "General's Command",
-      "description": "One of your monsters gains +400 ATK until end of turn."
-    },
-    "276": {
-      "name": "Warlord's Fury",
-      "description": "One of your monsters gains +500 ATK until end of turn."
-    },
-    "277": {
-      "name": "Weakening Hex",
-      "description": "All opponent monsters lose 300 ATK until end of turn."
-    },
-    "278": {
-      "name": "Draw of Fate",
-      "description": "Draw 1 card."
-    },
-    "279": {
-      "name": "Iron Wall Tactic",
-      "description": "One of your monsters gains +400 DEF until end of turn."
-    },
-    "280": {
-      "name": "Mystic Restoration",
-      "description": "Gain 1000 LP."
-    },
-    "281": {
-      "name": "Cataclysm",
-      "description": "Destroy all opponent's monsters."
-    },
-    "282": {
-      "name": "Annihilation Wave",
-      "description": "Destroy all monsters on both sides of the field."
-    },
-    "283": {
-      "name": "Void Collapse",
-      "description": "Opponent discards 2 cards from their hand."
-    },
-    "284": {
-      "name": "Blaze Formation",
-      "description": "All your Fire monsters gain +300 ATK/DEF."
-    },
-    "285": {
-      "name": "Tidal Formation",
-      "description": "All your Water monsters gain +300 ATK/DEF."
-    },
-    "286": {
-      "name": "Power Surge",
-      "description": "One of your monsters permanently gains +500 ATK."
-    },
-    "287": {
-      "name": "Forced Retreat",
-      "description": "Return opponent's strongest monster to their hand."
-    },
-    "288": {
-      "name": "Grand Expulsion",
-      "description": "Return all opponent monsters to their hand."
-    },
-    "289": {
-      "name": "Scroll of Wisdom",
-      "description": "Draw 2 cards."
-    },
-    "290": {
-      "name": "Devastation Bolt",
-      "description": "Deal 2000 damage to opponent."
-    },
-    "291": {
-      "name": "Flame Burst",
-      "description": "Activate when an opponent's monster attacks: Negate the attack."
-    },
-    "292": {
-      "name": "Ice Lance",
-      "description": "Activate when an opponent's monster attacks: Negate the attack."
-    },
-    "293": {
-      "name": "Poison Mist",
-      "description": "Activate when an opponent's monster attacks: Negate the attack."
-    },
-    "294": {
-      "name": "Earth Tremor",
-      "description": "Activate when an opponent's monster attacks: Negate the attack."
-    },
-    "295": {
-      "name": "Sword of Light",
-      "description": "Activate when an opponent's monster attacks: Destroy the attacking monster."
-    },
-    "296": {
-      "name": "Curse of Darkness",
-      "description": "Activate when your monster is attacked: Return the attacking monster to its owner's hand."
-    },
-    "297": {
-      "name": "Summon Storm",
-      "description": "Activate when an opponent's monster attacks: Destroy the attacking monster."
-    },
-    "298": {
-      "name": "Life Drain",
-      "description": "Activate when opponent summons a monster: Destroy the summoned monster if it has 1500+ ATK."
-    },
-    "299": {
-      "name": "Ambush Strike",
-      "description": "Activate when opponent summons a monster: Destroy the summoned monster if it has 1500+ ATK."
-    },
-    "300": {
-      "name": "Mirror Force",
-      "description": "Activate when an opponent's monster attacks: Destroy the attacking monster."
-    },
-    "301": {
-      "name": "Annihilation Trap",
-      "description": "Activate when an opponent's monster attacks: Destroy the attacking monster."
-    },
-    "302": {
-      "name": "Shadow Trap",
-      "description": "Activate when an opponent's monster attacks: Destroy the attacking monster."
-    },
-    "303": {
-      "name": "Battle Axe",
-      "description": "Equip to a monster. ATK +500."
-    },
-    "304": {
-      "name": "Iron Shield",
-      "description": "Equip to a monster. DEF +600."
-    },
-    "305": {
-      "name": "War Banner",
-      "description": "Equip to a monster. ATK +300, DEF +200."
-    },
-    "306": {
-      "name": "Guardian Armor",
-      "description": "Equip to a monster. ATK +200, DEF +400."
-    },
-    "307": {
-      "name": "Warlord's Halberd",
-      "description": "Equip to a monster. ATK +800."
-    },
-    "308": {
-      "name": "Mountain Fortress",
-      "description": "[Passive] All your Plant monsters gain +200 ATK/DEF. All your Machine monsters gain -150 ATK/DEF. All your Pyro monsters gain -100 ATK/DEF."
-    },
-    "309": {
-      "name": "Dragon Realm",
-      "description": "[Passive] All your Dragon monsters gain +300 ATK/DEF. All your Insect monsters gain -150 ATK/DEF. All your Aqua monsters gain -100 ATK/DEF."
-    },
-    "310": {
-      "name": "Mage Sanctum",
-      "description": "[Passive] All your Spellcaster monsters gain +250 ATK/DEF. All your Beast monsters gain -150 ATK/DEF. All your Warrior monsters gain -100 ATK/DEF."
-    },
-    "311": {
-      "name": "Dragon Fang Blade",
-      "description": "Equip to a Dragon monster. ATK +700, DEF +300."
-    },
-    "312": {
-      "name": "Flame Armor",
-      "description": "Equip to a Fire monster. ATK +600."
-    }
-  },
-  "opponents": {
-    "1": {
-      "name": "Pang Tong",
-      "title": "The Mentor",
-      "flavor": "A wise advisor at the imperial court."
-    },
-    "2": {
-      "name": "Sun Shangxiang",
-      "title": "Warrior Princess",
-      "flavor": "The fierce princess of Wu."
-    },
-    "3": {
-      "name": "Zhao Yun",
-      "title": "The Brave General",
-      "flavor": "A loyal general with unyielding honor."
-    },
-    "4": {
-      "name": "Villager",
-      "title": "Simple Farmer",
-      "flavor": "A villager who must defend himself."
-    },
-    "5": {
-      "name": "Villager",
-      "title": "Wandering Merchant",
-      "flavor": "A traveling merchant with a few cards."
-    },
-    "6": {
-      "name": "Villager",
-      "title": "Village Elder",
-      "flavor": "The most experienced duelist in the village."
-    },
-    "7": {
-      "name": "Cao Pi",
-      "title": "The Hero's Rival",
-      "flavor": "The ambitious son of the Wei clan."
-    },
-    "8": {
-      "name": "Zhang Jue",
-      "title": "Master of the Yellow Sky",
-      "flavor": "The leader of the Yellow Turbans. His sorcery is overwhelming."
-    },
-    "9": {
-      "name": "Tang Long",
-      "title": "The Tiger",
-      "flavor": "His deck is as wild as a tiger on the hunt."
-    },
-    "10": {
-      "name": "Hua Min",
-      "title": "Mistress of Metamorphosis",
-      "flavor": "Her creatures transform before your very eyes."
-    },
-    "11": {
-      "name": "Feng Hua",
-      "title": "Dance of the Fenghuang",
-      "flavor": "Born from ashes, indestructible and beautiful."
-    },
-    "12": {
-      "name": "Jake Steele",
-      "title": "Master of Machines",
-      "flavor": "Cold steel meets brute force."
-    },
-    "13": {
-      "name": "Dao Ren",
-      "title": "Master of the Trigrams",
-      "flavor": "The eight symbols reveal the future to him."
-    },
-    "14": {
-      "name": "Bai Chen",
-      "title": "Lord of the Jiangshi",
-      "flavor": "His undead servants know neither fatigue nor mercy."
-    },
-    "15": {
-      "name": "Maximilian Crest",
-      "title": "The Last Samurai",
-      "flavor": "A master of the blade from a forgotten era."
-    },
-    "16": {
-      "name": "Yü Yan",
-      "title": "Voice of the Xuanwu",
-      "flavor": "The water obeys her will."
-    },
-    "17": {
-      "name": "Wei Pi",
-      "title": "Heir of the Dragon Throne",
-      "flavor": "His dragon fire devours everything."
-    },
-    "18": {
-      "name": "Huang Bing",
-      "title": "Yellow Turban Foot Soldier",
-      "flavor": "The first enemy after returning to the past."
-    },
-    "19": {
-      "name": "Zhao Yun",
-      "title": "The Brave General (2nd Duel)",
-      "flavor": "The general challenges you once again."
-    },
-    "20": {
-      "name": "Sun Shangxiang",
-      "title": "Warrior Princess (2nd Duel)",
-      "flavor": "The princess reveals her true strength."
-    },
-    "21": {
-      "name": "Zhan Liu",
-      "title": "Apprentice of the Water Shrine",
-      "flavor": "His damp current is only the beginning."
-    },
-    "22": {
-      "name": "Xuan Shui",
-      "title": "Master of the Water Shrine",
-      "flavor": "The dark water devours everything."
-    },
-    "23": {
-      "name": "Qing Miao",
-      "title": "Apprentice of the Wood Shrine",
-      "flavor": "A green sprout that becomes a tree."
-    },
-    "24": {
-      "name": "Ku Mu",
-      "title": "Master of the Wood Shrine",
-      "flavor": "Dead wood that still lives."
-    },
-    "25": {
-      "name": "Huang Sha",
-      "title": "Apprentice of the Earth Shrine",
-      "flavor": "The yellow sand swallows everything."
-    },
-    "26": {
-      "name": "Hou Tu",
-      "title": "Master of the Earth Shrine",
-      "flavor": "Heavy earth, immovable stone."
-    },
-    "27": {
-      "name": "Duan Ren",
-      "title": "Apprentice of the Metal Shrine",
-      "flavor": "The forged blade seeks its target."
-    },
-    "28": {
-      "name": "Bai Jin",
-      "title": "Master of the Metal Shrine",
-      "flavor": "White gold — unbreakable and eternal."
-    },
-    "29": {
-      "name": "Xiao Yan",
-      "title": "Apprentice of the Fire Shrine",
-      "flavor": "The small flame burns everything."
-    },
-    "30": {
-      "name": "Chi Yan",
-      "title": "Master of the Fire Shrine",
-      "flavor": "The red flame knows no mercy."
-    },
-    "31": {
-      "name": "Mi Hun",
-      "title": "The Misleading Soul",
-      "flavor": "Neither human nor spirit — the labyrinth itself."
-    },
-    "32": {
-      "name": "Cao Pi",
-      "title": "The Hero's Rival (2nd Duel)",
-      "flavor": "The traitor reveals his true face."
-    },
-    "33": {
-      "name": "Shan Hu",
-      "title": "The Mountain Tiger",
-      "flavor": "Silent, waiting, invincible."
-    },
-    "34": {
-      "name": "Ye Lang",
-      "title": "The Night Wolf",
-      "flavor": "Aggressive from the very first round."
-    },
-    "35": {
-      "name": "Zhang Jue",
-      "title": "Master of the Yellow Sky (2nd Duel)",
-      "flavor": "This time he must fall."
-    },
-    "36": {
-      "name": "Cao Pi",
-      "title": "Forced Alliance",
-      "flavor": "A fragile alliance against a greater threat."
-    },
-    "37": {
-      "name": "Lu Bu",
-      "title": "The Invincible Warrior",
-      "flavor": "Unleashed by Zhang Jue — pure destruction."
-    },
-    "38": {
-      "name": "Lu Bu & Chituma",
-      "title": "Rider and Steed",
-      "flavor": "The true form — physical immortality."
-    },
-    "39": {
-      "name": "Cao Cao",
-      "title": "The Man Behind It All",
-      "flavor": "Duel Master C — the true master."
-    }
-  },
-  "races": {
-    "Dragon": "Dragon",
-    "Spellcaster": "Spellcaster",
-    "Warrior": "Warrior",
-    "Beast": "Beast",
-    "Plant": "Plant",
-    "Rock": "Rock",
-    "Phoenix": "Phoenix",
-    "Undead": "Undead",
-    "Aqua": "Aqua",
-    "Insect": "Insect",
-    "Machine": "Machine",
-    "Pyro": "Pyro"
-  },
-  "attributes": {
-    "Light": "Light",
-    "Dark": "Dark",
-    "Fire": "Fire",
-    "Water": "Water",
-    "Earth": "Earth",
-    "Wind": "Wind"
-  },
-  "cardTypes": {
-    "Monster": "Monster",
-    "Fusion": "Fusion Monster",
-    "Spell": "Spell",
-    "Trap": "Trap",
-    "Equipment": "Equipment"
-  },
-  "shop": {
-    "tier_1_recruit": {
-      "name": "Recruit's Supply",
-      "desc": "9 cards · Beginner · Max. 1500 ATK"
-    },
-    "tier_2_soldier": {
-      "name": "Soldier's Cache",
-      "desc": "9 cards · Intermediate · Max. 1800 ATK"
-    },
-    "tier_3_officer": {
-      "name": "Officer's Bounty",
-      "desc": "9 cards · Advanced · Max. 2100 ATK"
-    },
-    "tier_4_commander": {
-      "name": "Commander's Vault",
-      "desc": "9 cards · Expert · Max. 2500 ATK"
-    },
-    "tier_5_temple": {
-      "name": "Temple Relics",
-      "desc": "9 cards · Elite · Max. 3000 ATK · No Ultra Rare"
-    },
-    "tier_6_warlord": {
-      "name": "Warlord's Arsenal",
-      "desc": "9 cards · Legendary · All cards available"
-    }
-  },
-  "campaign": {
-    "ch_han_court": "Chapter 1: The Han Court",
-    "ch_tournament": "Chapter 2: The Tournament",
-    "ch_return": "Chapter 3: The Return",
-    "ch_wu_xing": "Chapter 4: The Wu Xing Labyrinth",
-    "ch_betrayal": "Chapter 5: The Betrayal",
-    "ch_endgame": "Chapter 6: Endgame",
-    "ch_postgame": "Chapter 7: Beyond the Horizon",
+    "1": { "name": "River Phantom", "description": "A swift water spirit that drifts through the mist." },
+    "2": { "name": "Mist Dancer", "description": "An elusive figure that vanishes before the blade strikes." },
+    "3": { "name": "Fog Sprite", "description": "A playful spirit born from morning fog over still waters." },
+    "4": { "name": "Tide Illusion", "description": "[Effect] On Summon: Return the strongest opponent monster to their hand." },
+    "5": { "name": "Veil Serpent", "description": "[Effect] On Flip Summon: Return the strongest opponent monster to their hand." },
+    "6": { "name": "Mirror Koi", "description": "[Effect] On Summon: Set a monster face-down." },
+    "7": { "name": "Phantom Tortoise", "description": "[Passive] Cannot be targeted by effects." },
+    "8": { "name": "Dark Tide Eel", "description": "[Effect] On Summon: Return the strongest opponent monster to their hand and set a monster face-down." },
+    "9": { "name": "Ripple Oracle", "description": "[Effect] On Flip Summon: Return the strongest opponent monster to their hand and draw 1 card." },
+    "10": { "name": "Deepwater Sovereign", "description": "[Passive] Cannot be targeted by effects. Cannot be attacked." },
+    "11": { "name": "Tidal Marshal", "description": "[Effect] On Summon: Return all opponent monsters to their hand." },
+    "12": { "name": "Shadow Current", "description": "[Effect] On Summon: Opponent discards 1 card, then return their strongest monster to their hand." },
+    "13": { "name": "Abyssal Mirage", "description": "[Effect] On Flip Summon: Return all opponent monsters to their hand and set this card face-down." },
+    "14": { "name": "Jade Stream Guardian", "description": "[Passive] Cannot be targeted by effects. [Effect] On Summon: Cancel the current attack." },
+    "15": { "name": "Void Tide Serpent", "description": "[Effect] On Summon: Return all opponent monsters to their hand and opponent discards 1 card." },
+    "16": { "name": "Azure Dragon of the Depths", "description": "[Passive] Cannot be targeted by effects. [Effect] On Summon: Return all opponent monsters to their hand and draw 2 cards." },
+    "17": { "name": "Moonlit Leviathan", "description": "[Effect] On Flip Summon: Return all opponent monsters to their hand, destroy all opponent spells/traps, and set this card face-down." },
+    "18": { "name": "Sovereign of Ten Thousand Waves", "description": "[Passive] Cannot be targeted by effects. Cannot be attacked. [Effect] On Summon: Return all opponent monsters to their hand." },
 
-    "story_intro_1": "The Han dynasty crumbles. Warlords carve the empire into rival kingdoms, and the people suffer under endless war.",
-    "story_intro_2": "Yet amid the chaos, a different kind of battle has emerged — one fought not with swords, but with cards of power.",
-    "story_intro_3": "Ah, a new face at the imperial court! I am Pang Tong. Tell me — do you know the way of the Duel Cards?",
-    "story_intro_4": "Each card holds the spirit of a warrior, a beast, or a spell. Master them, and you master the battlefield itself.",
-    "story_intro_5": "Take this starter deck. Prove your worth against the court's duelists, and perhaps you will earn a place in the great tournament.",
+    "19": { "name": "Jade Sprout", "description": "A tiny sapling reaching toward the light." },
+    "20": { "name": "Bamboo Scout", "description": "A bamboo spirit that watches over the forest paths." },
+    "21": { "name": "Willow Acolyte", "description": "[Effect] On Summon: Gain 300 LP." },
+    "22": { "name": "Forest Monk", "description": "[Effect] On Summon: Gain 400 LP." },
+    "23": { "name": "Tanglewood Sage", "description": "[Effect] On Summon: Reduce all opponent monsters' ATK and DEF by 200." },
+    "24": { "name": "Radiant Blossom", "description": "[Effect] When destroyed in battle: Gain 500 LP." },
+    "25": { "name": "Root Warden", "description": "[Effect] On Summon: Reduce all opponent monsters' ATK and DEF by 200 and gain 300 LP." },
+    "26": { "name": "Ancient Vine Marshal", "description": "[Effect] On Summon: Boost all your Wood monsters' ATK and DEF by 200." },
+    "27": { "name": "Thornwall Elder", "description": "[Effect] On Summon: Reduce all opponent monsters' ATK and DEF by 300." },
+    "28": { "name": "Ironwood Sentinel", "description": "[Effect] On Summon: Boost all your Wood monsters' ATK and DEF by 200 and gain 500 LP." },
+    "29": { "name": "Celestial Peach Spirit", "description": "[Effect] When destroyed in battle: Gain 800 LP and draw 1 card." },
+    "30": { "name": "Towering Canopy", "description": "[Effect] On Summon: Reduce all opponent monsters' ATK and DEF by 300 and gain 400 LP." },
+    "31": { "name": "Grove Commander", "description": "[Effect] On Summon: Boost all your Wood monsters' ATK and DEF by 300 and gain 500 LP." },
+    "32": { "name": "Sacred Lotus Envoy", "description": "[Effect] On Summon: Reduce all opponent monsters' ATK and DEF by 400 and draw 1 card." },
+    "33": { "name": "Emerald Forest General", "description": "[Effect] On Summon: Boost all your Wood monsters' ATK and DEF by 300 and reduce all opponent monsters' stats by 200." },
+    "34": { "name": "Ancient Guardian of the Verdant Throne", "description": "[Effect] On Summon: Boost all your Wood monsters' ATK and DEF by 400, gain 800 LP, and reduce all opponent monsters' ATK and DEF by 300." },
+    "35": { "name": "Eternal Bodhi Sage", "description": "[Effect] On Summon: Reduce all opponent monsters' ATK and DEF by 500 and gain 1000 LP." },
+    "36": { "name": "Celestial Peach Immortal", "description": "[Effect] When destroyed in battle: Gain 1500 LP, draw 2 cards, and boost all your Wood monsters' ATK and DEF by 300." },
 
-    "duel_7_post_1": "Impressive. You actually managed to beat me. Don't let it go to your head — I wasn't even trying.",
-    "duel_7_post_2": "But mark my words: the next time we meet, I will crush you without mercy. The Wei clan does not lose twice.",
-    "duel_7_post_3": "Cao Pi departed with a cold smile. His ambition was plain to see — this rivalry was far from over.",
+    "37": { "name": "Pebble Sentry", "description": "A small stone guardian, silent and steadfast." },
+    "38": { "name": "Clay Soldier", "description": "A terracotta warrior standing eternal watch." },
+    "39": { "name": "Sandstone Keeper", "description": "A stoic sentinel carved from desert stone." },
+    "40": { "name": "Stone Sentinel", "description": "[Effect] When your monster is attacked: Prevent all battle damage." },
+    "41": { "name": "Granite Avenger", "description": "[Effect] When this card attacks: Reflect battle damage back to the opponent." },
+    "42": { "name": "Buried Guardian", "description": "[Effect] On Flip Summon: Destroy the attacking monster." },
+    "43": { "name": "Iron Wall", "description": "[Effect] When this card attacks: Reflect battle damage and prevent battle damage." },
+    "44": { "name": "Basalt Protector", "description": "[Effect] When your monster is attacked: Prevent battle damage and permanently boost one of your monsters' DEF by 200." },
+    "45": { "name": "Jade Terrapin", "description": "[Passive] Piercing damage. [Effect] On Flip Summon: Destroy the attacking monster." },
+    "46": { "name": "Mountain Warden", "description": "[Effect] When this card attacks: Reflect battle damage and permanently boost one of your monsters' DEF by 300." },
+    "47": { "name": "Ancient Earthshaper", "description": "[Effect] On Flip Summon: Destroy the attacking monster and permanently boost one of your monsters' DEF by 400." },
+    "48": { "name": "Obsidian Bulwark", "description": "[Passive] Piercing damage. [Effect] When your monster is attacked: Prevent all battle damage." },
+    "49": { "name": "Fortress of the Central Plain", "description": "[Effect] Costs 800 LP. When this card attacks: Reflect battle damage and prevent battle damage." },
+    "50": { "name": "Eternal Monolith", "description": "[Passive] Cannot be destroyed. [Effect] When your monster is attacked: Prevent all battle damage." },
+    "51": { "name": "Terracotta General", "description": "[Effect] On Flip Summon: Destroy the attacking monster, permanently boost one of your monsters' DEF by 500, and reflect battle damage." },
+    "52": { "name": "Sovereign of the Bedrock", "description": "[Passive] Cannot be destroyed. Piercing damage. [Effect] When this card attacks: Reflect battle damage." },
+    "53": { "name": "Immovable Mountain King", "description": "[Passive] Cannot be destroyed. [Effect] When your monster is attacked: Prevent battle damage and destroy the attacking monster." },
+    "54": { "name": "Celestial Pillar of Heaven and Earth", "description": "[Passive] Piercing damage. Cannot be destroyed. [Effect] On Flip Summon: Destroy the attacking monster and permanently boost one of your monsters' DEF by 600." },
 
-    "duel_8_post_1": "The Yellow Sky watches over all. You fought well, child, but the heavens are not moved by mortal strength alone.",
-    "duel_8_post_2": "Zhang Jue's sorcery proved too powerful. The cards scattered like leaves in a storm.",
-    "duel_8_post_3": "A blinding light engulfed the arena. When it faded, the world around you had... changed.",
-    "duel_8_post_4": "The imperial court was gone. In its place stood an unfamiliar land — the past, or perhaps something stranger still.",
+    "55": { "name": "Copper Ingot", "description": "A lump of refined copper, shaped for battle." },
+    "56": { "name": "Bronze Footman", "description": "A dependable soldier in gleaming bronze plate." },
+    "57": { "name": "Iron Apprentice", "description": "A young smith hardened by the forge." },
+    "58": { "name": "Steel Vanguard", "description": "A disciplined warrior clad in tempered steel." },
+    "59": { "name": "Silver Bladesmith", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 200." },
+    "60": { "name": "Bronze Shield Bearer", "description": "[Effect] On Summon: Permanently boost one of your monsters' DEF by 200." },
+    "61": { "name": "Iron General", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 300." },
+    "62": { "name": "Cursed Blade Phantom", "description": "[Passive] Piercing damage." },
+    "63": { "name": "Gold Armorer", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 300 and DEF by 200." },
+    "64": { "name": "Mithril Commander", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 400." },
+    "65": { "name": "Platinum Sentinel", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 300 and DEF by 300." },
+    "66": { "name": "Dark Iron Reaver", "description": "[Passive] Piercing damage. [Effect] On Summon: Permanently boost one of your monsters' ATK by 300." },
+    "67": { "name": "Adamantine Warlord", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 400 and DEF by 200." },
+    "68": { "name": "Celestial Bronze Champion", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 500." },
+    "69": { "name": "Void Steel Executioner", "description": "[Passive] Piercing damage. [Effect] On Summon: Permanently boost one of your monsters' ATK by 400." },
+    "70": { "name": "Gold Emperor", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 500 and DEF by 300." },
+    "71": { "name": "Starforged Overlord", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 600 and draw 1 card." },
+    "72": { "name": "Sovereign of the Eternal Forge", "description": "[Passive] Piercing damage. [Effect] On Summon: Permanently boost one of your monsters' ATK by 500 and DEF by 300." },
 
-    "story_arrival_1": "After wandering for days, you arrived at a great walled city. Banners of every color hung from its towers.",
-    "story_arrival_2": "This was the legendary Tournament of the Three Kingdoms — where the greatest duelists from every land gathered to compete.",
-    "story_arrival_3": "The prize: a set of cards said to hold the power of the ancient Five Elements themselves.",
-    "story_arrival_4": "To claim them, you would need to fight through qualifiers, quarterfinals, semifinals, and a grand final duel.",
-    "story_arrival_5": "You registered your name and stepped into the arena. The crowd roared. The tournament had begun.",
+    "73": { "name": "Ember Rat", "description": "A small creature wreathed in flickering flame." },
+    "74": { "name": "Cinder Wolf", "description": "[Effect] On Summon: Deal 200 damage to your opponent." },
+    "75": { "name": "Ash Dancer", "description": "[Effect] On Summon: Deal 300 damage to your opponent." },
+    "76": { "name": "Flame Serpent", "description": "[Effect] On Summon: Deal 400 damage to your opponent." },
+    "77": { "name": "Blazing Martyr", "description": "[Effect] When destroyed in battle: Deal 500 damage to your opponent." },
+    "78": { "name": "Smoldering Herald", "description": "[Effect] On Summon: Deal 500 damage to your opponent and gain 200 LP." },
+    "79": { "name": "Inferno Captain", "description": "[Effect] On Summon: Deal 500 damage to your opponent and destroy the weakest opponent monster." },
+    "80": { "name": "Scorched Avenger", "description": "[Effect] When destroyed in battle: Deal 600 damage to your opponent." },
+    "81": { "name": "Suicide Bomber Spirit", "description": "[Effect] Tribute this card. On Summon: Destroy ALL monsters on the field and deal 800 damage to your opponent." },
+    "82": { "name": "Hellfire Marshal", "description": "[Effect] On Summon: Destroy the weakest opponent monster and deal 500 damage to your opponent." },
+    "83": { "name": "Volcanic Strategist", "description": "[Effect] On Summon: Deal 600 damage to your opponent and gain 300 LP." },
+    "84": { "name": "Pyre Reaper", "description": "[Effect] When destroyed in battle: Deal 800 damage to your opponent and destroy the weakest opponent monster." },
+    "85": { "name": "Blazing General", "description": "[Effect] On Summon: Destroy all opponent monsters and deal 400 damage to your opponent." },
+    "86": { "name": "Immolation Warlord", "description": "[Effect] Tribute this card. On Summon: Destroy ALL monsters on the field and deal 1000 damage to your opponent." },
+    "87": { "name": "Crimson Tide Commander", "description": "[Effect] On Summon: Deal 700 damage to your opponent, destroy the weakest opponent monster, and gain 300 LP." },
+    "88": { "name": "Inferno Sovereign", "description": "[Effect] On Summon: Destroy all opponent monsters, deal 600 damage to your opponent, and draw 1 card." },
+    "89": { "name": "Ashen Calamity", "description": "[Effect] Costs 1000 LP. On Summon: Destroy ALL monsters on the field and deal 1200 damage to your opponent." },
+    "90": { "name": "Eternal Pyre of the Red Cliff", "description": "[Effect] When sent to the graveyard: Deal 1000 damage to your opponent and destroy all opponent monsters." },
 
-    "duel_17_post_1": "The final card hit the field, and the crowd erupted. Against all odds, you had won the tournament.",
-    "duel_17_post_2": "The Five Element cards were yours. But as you held them, a strange energy pulsed through your fingertips.",
-    "duel_17_post_3": "Something was awakening — something ancient and powerful. The cards seemed to call you somewhere far away.",
+    "91": { "name": "Whelp of Shadow", "description": "A young dragon stirring in the darkness." },
+    "92": { "name": "Darkscale Striker", "description": "[Passive] Piercing damage." },
+    "93": { "name": "Duskwing Serpent", "description": "A winged serpent that hunts at twilight." },
+    "94": { "name": "Obsidian Drake", "description": "[Passive] Piercing damage." },
+    "95": { "name": "Wyrm Commander", "description": "[Effect] On Summon: Boost all your Dragon monsters' ATK and DEF by 200." },
+    "96": { "name": "Bone Dragon", "description": "[Effect] When destroyed in battle: Special summon a monster from your graveyard." },
+    "97": { "name": "Voidfire Dragon", "description": "[Passive] Piercing damage. Can attack directly." },
+    "98": { "name": "Gravescale Wyrm", "description": "[Effect] On Summon: Special summon a monster from your graveyard." },
+    "99": { "name": "Ironjaw Wyvern", "description": "[Effect] On Summon: Boost all your Dragon monsters' ATK and DEF by 300." },
+    "100": { "name": "Abyssal Wyrm Lord", "description": "[Passive] Piercing damage. Can attack directly." },
+    "101": { "name": "Jade Celestial Dragon", "description": "[Passive] Unaffected by card effects." },
+    "102": { "name": "Undying Serpent", "description": "[Effect] When destroyed in battle: Special summon a monster from your graveyard and boost all your Dragon monsters' ATK and DEF by 200." },
+    "103": { "name": "Dark Sovereign Wyrm", "description": "[Passive] Piercing damage. Can attack directly. [Effect] On Summon: Boost all your Dragon monsters' ATK and DEF by 300." },
+    "104": { "name": "Celestial Scale Guardian", "description": "[Passive] Unaffected by card effects. Piercing damage." },
+    "105": { "name": "Dread Necro-Wyrm", "description": "[Effect] On Summon: Special summon a monster from your graveyard and boost all your Dragon monsters' ATK and DEF by 300." },
+    "106": { "name": "Primordial Dragon of the Void", "description": "[Passive] Piercing damage. Can attack directly. Unaffected by card effects." },
+    "107": { "name": "Heavenly Dragon Imperator", "description": "[Passive] Unaffected by card effects. Cannot be destroyed. Piercing damage." },
+    "108": { "name": "Dragon King of Nine Heavens", "description": "[Effect] On Summon: Special summon a monster from your graveyard, boost all your Dragon monsters' ATK and DEF by 400, and draw 1 card." },
 
-    "story_return_1": "Guided by the pull of the Five Element cards, you traveled deep into the wilderness beyond the city walls.",
-    "story_return_2": "Familiar faces appeared along the road — old rivals eager for a rematch, and new enemies drawn by your growing fame.",
-    "story_return_3": "The cards pulsed stronger with each step. Whatever lay ahead, there was no turning back.",
-    "story_return_4": "At last, you stood before a vast stone gate carved with the symbols of Water, Wood, Earth, Metal, and Fire.",
+    "109": { "name": "Spark Chick", "description": "A tiny phoenix hatchling with embers in its wings." },
+    "110": { "name": "Cinder Fledgling", "description": "[Effect] When destroyed in battle: Gain 400 LP." },
+    "111": { "name": "Dawn Plume", "description": "A graceful bird trailing wisps of morning light." },
+    "112": { "name": "Ashbound Sentinel", "description": "[Effect] When destroyed in battle: Gain 500 LP." },
+    "113": { "name": "Reborn Cinder", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF." },
+    "114": { "name": "Grave Tender Phoenix", "description": "[Effect] On Summon: Return a spell/trap from your graveyard to your hand." },
+    "115": { "name": "Solar Phoenix", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF." },
+    "116": { "name": "Twilight Phoenix", "description": "[Effect] On Summon: Special summon a monster from either player's graveyard." },
+    "117": { "name": "Cycle Flamewing", "description": "[Effect] On Summon: Shuffle your graveyard into your deck and draw 2 cards." },
+    "118": { "name": "Eternal Flamewing", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. [Effect] When destroyed in battle: Gain 600 LP." },
+    "119": { "name": "Dusk Reaver Phoenix", "description": "[Effect] On Summon: Special summon a monster from either player's graveyard and opponent discards 1 card." },
+    "120": { "name": "Renewal Sage Phoenix", "description": "[Effect] On Summon: Shuffle your graveyard into your deck, draw 2 cards, and gain 500 LP." },
+    "121": { "name": "Undying Sunbird", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. [Effect] On Summon: Special summon a monster from either player's graveyard." },
+    "122": { "name": "Phoenix of the Endless Cycle", "description": "[Effect] On Summon: Shuffle your graveyard into your deck and draw 3 cards." },
+    "123": { "name": "Shadow Phoenix Sovereign", "description": "[Effect] On Summon: Special summon a monster from either player's graveyard, opponent discards 1 card, and return a spell/trap from your graveyard to your hand." },
+    "124": { "name": "Vermillion Bird Ascendant", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. [Effect] On Summon: Special summon a monster from either player's graveyard, shuffle your graveyard into your deck, and draw 2 cards." },
+    "125": { "name": "Immortal Phoenix of the Southern Sky", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. Cannot be destroyed. [Effect] When destroyed in battle: Gain 1000 LP." },
+    "126": { "name": "Abyssal Phoenix Tyrant", "description": "[Effect] On Summon: Special summon a monster from either player's graveyard, opponent discards 2 cards, and return a spell/trap from your graveyard to your hand." },
 
-    "duel_31_pre_1": "You dare enter my domain? I am Mi Hun — I am the labyrinth, and the labyrinth is me.",
-    "duel_31_pre_2": "Every soul that wanders these halls feeds my power. Your Five Element cards called you here — but they will not save you.",
-    "duel_31_pre_3": "Come then, mortal. Let us see if your cards can unravel what your mind cannot.",
+    "127": { "name": "Village Militia", "description": "A humble farmer who took up arms to defend the homeland." },
+    "128": { "name": "Han Spearman", "description": "A reliable spearman from the central plains." },
+    "129": { "name": "Wei Scout", "description": "[Effect] On Summon: Temporarily boost one of your monsters' ATK by 200." },
+    "130": { "name": "Shu Swordsman", "description": "[Effect] On Summon: Temporarily boost one of your monsters' ATK by 300." },
+    "131": { "name": "Wu Infantry Captain", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 200." },
+    "132": { "name": "Vanguard Duelist", "description": "[Effect] When dealing battle damage: Draw 1 card." },
+    "133": { "name": "Iron Cavalry Commander", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 200 and temporarily boost one of your monsters' ATK by 200." },
+    "134": { "name": "Radiant War Sage", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 300." },
+    "135": { "name": "Rally Marshal", "description": "[Effect] On Summon: Special summon a monster from your hand (max 1000 ATK)." },
+    "136": { "name": "Grand Battalion Leader", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 300 and special summon a monster from your hand (max 1200 ATK)." },
+    "137": { "name": "Celestial War Banner", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 300 and draw 1 card." },
+    "138": { "name": "Charging Berserker", "description": "[Effect] When dealing battle damage: Draw 1 card and boost all your Warrior monsters' ATK and DEF by 200." },
+    "139": { "name": "Five Tiger General", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 300 and special summon a monster from your hand." },
+    "140": { "name": "Divine War Marshal", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 400." },
+    "141": { "name": "Relentless Champion", "description": "[Effect] When dealing battle damage: Draw 2 cards and boost all your Warrior monsters' ATK and DEF by 200." },
+    "142": { "name": "Conqueror of the Central Plains", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 400, special summon a monster from your hand, and draw 1 card." },
+    "143": { "name": "Heaven's Mandate General", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 500 and draw 1 card." },
+    "144": { "name": "Unrivaled Warlord of the Three Kingdoms", "description": "[Effect] On Summon: Boost all your Warrior monsters' ATK and DEF by 400, special summon a monster from your hand, and temporarily boost one of your monsters' ATK by 500." },
 
-    "duel_31_post_1": "The labyrinth shuddered and began to collapse. Mi Hun's form dissolved into mist with a final, echoing whisper.",
-    "duel_31_post_2": "As the walls crumbled, a hidden passage was revealed — leading deeper underground, toward a faint and ominous glow.",
+    "145": { "name": "Spark Imp", "description": "[Passive] Can attack directly." },
+    "146": { "name": "Lightning Scout", "description": "[Passive] Can attack directly." },
+    "147": { "name": "Crackling Envoy", "description": "[Effect] On Summon: Deal 300 damage to your opponent." },
+    "148": { "name": "Storm Rider", "description": "[Effect] On Summon: Deal 400 damage to your opponent." },
+    "149": { "name": "Thunder Lancer", "description": "[Effect] On Summon: Deal 400 damage to your opponent and opponent discards 1 card." },
+    "150": { "name": "Gale Striker", "description": "[Effect] On Summon: Deal 500 damage to your opponent." },
+    "151": { "name": "Bolt Sage", "description": "[Effect] On Summon: Deal 500 damage to your opponent and draw 1 card." },
+    "152": { "name": "Shock Tactician", "description": "[Effect] On Summon: Opponent discards 1 card and deal 400 damage to your opponent." },
+    "153": { "name": "Tempest Dragoon", "description": "[Effect] When dealing battle damage: Opponent skips next draw phase and draw 1 card." },
+    "154": { "name": "Thunder Marshal", "description": "[Effect] On Summon: Deal 600 damage to your opponent and opponent discards 1 card." },
+    "155": { "name": "Stormfront Titan", "description": "[Effect] On Summon: Deal 700 damage to your opponent." },
+    "156": { "name": "Lightning Sage", "description": "[Effect] On Summon: Draw 2 cards and deal 400 damage to your opponent." },
+    "157": { "name": "Celestial Storm Commander", "description": "[Effect] On Summon: Deal 600 damage to your opponent, opponent discards 1 card, and draw 1 card." },
+    "158": { "name": "Raijin's Herald", "description": "[Effect] When dealing battle damage: Opponent skips next draw phase, draw 1 card, and deal 400 damage to your opponent." },
+    "159": { "name": "Thunderclap Overlord", "description": "[Effect] On Summon: Deal 800 damage to your opponent and opponent discards 1 card." },
+    "160": { "name": "Sovereign of the Endless Storm", "description": "[Effect] On Summon: Draw 2 cards, deal 700 damage to your opponent, and opponent discards 2 cards." },
+    "161": { "name": "Bolt Immortal of the Nine Heavens", "description": "[Effect] On Summon: Deal 800 damage to your opponent, opponent discards 1 card, and opponent skips next draw phase." },
+    "162": { "name": "Thunder God of the Celestial Gate", "description": "[Effect] On Summon: Deal 1000 damage to your opponent and draw 1 card." },
 
-    "story_betrayal_1": "You emerged from the labyrinth into daylight, only to find a familiar figure waiting at the exit.",
-    "story_betrayal_2": "Surprised? You shouldn't be. I've been following your progress since the tournament. Those Five Element cards — I need them.",
-    "story_betrayal_3": "My father demands power, and I will deliver it. Hand over the cards, or I will take them by force.",
-    "story_betrayal_4": "Did you truly think we were rivals? No — you were merely a pawn sent to gather what I could not reach alone.",
-    "story_betrayal_5": "Cao Pi drew his deck. There would be no negotiation. Only battle.",
+    "163": { "name": "Iron Leviathan", "description": "[Passive] Piercing damage. Unaffected by card effects. Fusion of Metal and Dragon." },
+    "164": { "name": "Adamantine Dragon Sovereign", "description": "[Passive] Piercing damage. Unaffected by card effects. Cannot be destroyed. Fusion of Metal and Dragon." },
+    "165": { "name": "Warlord Dragon", "description": "[Effect] On Summon: Boost all your Dragon and Warrior monsters' ATK and DEF by 400. Fusion of Dragon and Warrior." },
+    "166": { "name": "Dragon General of the Crimson Banner", "description": "[Effect] On Summon: Boost all your Dragon and Warrior monsters' ATK and DEF by 400 and draw 1 card. Fusion of Dragon and Warrior." },
+    "167": { "name": "Iron Juggernaut", "description": "[Effect] On Summon: Permanently boost one of your monsters' ATK by 500 and boost all your Warrior monsters' ATK and DEF by 300. Fusion of Metal and Warrior." },
+    "168": { "name": "Indomitable War Machine", "description": "[Passive] Piercing damage. [Effect] On Summon: Permanently boost one of your monsters' ATK by 600 and boost all your Warrior monsters' ATK and DEF by 300. Fusion of Metal and Warrior." },
+    "169": { "name": "Inferno Phoenix", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. [Effect] When destroyed in battle: Deal 800 damage to your opponent. Fusion of Phoenix and Fire." },
+    "170": { "name": "Phoenix of the Eternal Pyre", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. [Effect] When destroyed in battle: Deal 1000 damage to your opponent and destroy the weakest opponent monster. Fusion of Phoenix and Fire." },
+    "171": { "name": "Storm Tide Warden", "description": "[Effect] On Summon: Draw 2 cards and return all opponent monsters to their hand. Fusion of Thunder and Water." },
+    "172": { "name": "Tempest Ocean Sovereign", "description": "[Effect] On Summon: Draw 2 cards, return all opponent monsters to their hand, and deal 500 damage to your opponent. Fusion of Thunder and Water." },
+    "173": { "name": "Ancient River Spirit", "description": "[Effect] On Summon: Return all opponent monsters to their hand and reduce all opponent monsters' ATK and DEF by 300. Fusion of Water and Wood." },
+    "174": { "name": "Eternal River Guardian", "description": "[Effect] On Summon: Return all opponent monsters to their hand, reduce all opponent monsters' ATK and DEF by 300, and gain 800 LP. Fusion of Water and Wood." },
+    "175": { "name": "Iron Fortress Golem", "description": "[Passive] Cannot be destroyed. [Effect] When this card attacks: Reflect battle damage. Fusion of Earth and Metal." },
+    "176": { "name": "Unbreakable Citadel", "description": "[Passive] Cannot be destroyed. Piercing damage. [Effect] When this card attacks: Reflect battle damage. Fusion of Earth and Metal." },
+    "177": { "name": "Infernal Wyrm", "description": "[Effect] On Summon: Destroy all opponent monsters and deal 500 damage to your opponent. Fusion of Fire and Dragon." },
+    "178": { "name": "Hellfire Dragon King", "description": "[Passive] Piercing damage. [Effect] On Summon: Destroy all opponent monsters and deal 600 damage to your opponent. Fusion of Fire and Dragon." },
+    "179": { "name": "Celestial Dragon Phoenix", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. Piercing damage. [Effect] On Summon: Special summon a monster from either player's graveyard. Fusion of Phoenix and Dragon." },
+    "180": { "name": "Divine Phoenix Dragon Emperor", "description": "[Passive] When destroyed, revive next turn with 100 ATK/DEF. Piercing damage. Unaffected by card effects. [Effect] On Summon: Special summon a monster from either player's graveyard. Fusion of Phoenix and Dragon." },
 
-    "duel_32_post_1": "Cao Pi staggered back, his cards scattered across the ground. Defeat was written on his face.",
-    "duel_32_post_2": "This... this changes nothing. My father will still get what he wants. You have no idea what is coming.",
-    "duel_32_post_3": "He vanished into the shadows. His words lingered — who was the true enemy pulling the strings?",
+    "181": { "name": "Tidal Surge", "description": "[Spell] Return the strongest opponent monster to their hand." },
+    "182": { "name": "Great Flood", "description": "[Spell] Return all opponent monsters to their hand." },
+    "183": { "name": "Forest Renewal", "description": "[Spell] Gain 800 LP." },
+    "184": { "name": "Entangling Overgrowth", "description": "[Spell] Gain 1000 LP and reduce all opponent monsters' ATK and DEF by 200." },
+    "185": { "name": "Stone Fortification", "description": "[Spell] Permanently boost one of your monsters' DEF by 400." },
+    "186": { "name": "Earthen Rampart", "description": "[Spell] Permanently boost one of your monsters' DEF by 600 and prevent battle damage." },
+    "187": { "name": "Steel Tempering", "description": "[Spell] Permanently boost one of your monsters' ATK by 400." },
+    "188": { "name": "Masterwork Forging", "description": "[Spell] Permanently boost one of your monsters' ATK by 500 and DEF by 300." },
+    "189": { "name": "Rain of Fire", "description": "[Spell] Deal 600 damage to your opponent and destroy the weakest opponent monster." },
+    "190": { "name": "Scorched Earth", "description": "[Spell] Destroy all opponent monsters and deal 300 damage to your opponent." },
+    "191": { "name": "Dragon's Resurrection", "description": "[Spell] Special summon a monster from your graveyard." },
+    "192": { "name": "Call of the Dragon Horde", "description": "[Spell] Special summon a monster from your graveyard and boost all your Dragon monsters' ATK and DEF by 300." },
+    "193": { "name": "Cycle of Rebirth", "description": "[Spell] Shuffle your graveyard into your deck and draw 3 cards." },
+    "194": { "name": "Phoenix Pyre Ritual", "description": "[Spell] Special summon a monster from either player's graveyard and shuffle your graveyard into your deck." },
+    "195": { "name": "Battle Formation", "description": "[Spell] Boost all your Warrior monsters' ATK and DEF by 300." },
+    "196": { "name": "Grand Mobilization", "description": "[Spell] Boost all your Warrior monsters' ATK and DEF by 400 and special summon a monster from your hand." },
+    "197": { "name": "Lightning Strike", "description": "[Spell] Deal 800 damage to your opponent and opponent discards 1 card." },
+    "198": { "name": "Tempest Judgment", "description": "[Spell] Deal 600 damage to your opponent, opponent discards 2 cards, and opponent skips next draw phase." },
+    "199": { "name": "Strategic Counsel", "description": "[Spell] Draw 2 cards." },
+    "200": { "name": "War Council", "description": "[Spell] Discard 1 card, then draw 3 cards." },
+    "201": { "name": "Decapitation Strike", "description": "[Spell] Destroy the strongest opponent monster." },
+    "202": { "name": "Scouting Report", "description": "[Spell] Search your deck for a monster (max 1500 ATK) and add it to your hand." },
+    "203": { "name": "Burning Siege", "description": "[Spell] Destroy all opponent spells and traps." },
+    "204": { "name": "Flame Arrow Volley", "description": "[Spell] Deal 500 damage to your opponent." },
+    "205": { "name": "Mandate of Conquest", "description": "[Spell] Permanently take control of an opponent's monster." },
+    "206": { "name": "Borrowed Sword", "description": "[Spell] Take temporary control of an opponent's monster and deal 300 damage to your opponent." },
+    "207": { "name": "Graveyard Plunder", "description": "[Spell] Send the top 3 cards of your opponent's deck to the graveyard." },
+    "208": { "name": "Heaven's Wrath", "description": "[Spell] Destroy ALL monsters on the field." },
+    "209": { "name": "Forced March", "description": "[Spell] Special summon a monster from your hand." },
+    "210": { "name": "Imperial Decree", "description": "[Spell] Costs 1000 LP. Search your deck for any monster and add it to your hand." },
 
-    "duel_35_post_1": "Zhang Jue fell to his knees, his mystic aura flickering and fading like a dying flame.",
-    "duel_35_post_2": "You have grown strong... but I was never the true threat. The one who summoned me — he lurks in the shadows still.",
-    "duel_35_post_3": "Before you could question him further, a dark portal tore open behind the fallen sorcerer. Something immense stirred within.",
+    "211": { "name": "Iron Shield", "description": "[Trap] When an opponent monster attacks: Prevent all battle damage." },
+    "212": { "name": "Hidden Pit", "description": "[Trap] When an opponent monster attacks: Destroy the attacking monster." },
+    "213": { "name": "Mirror Technique", "description": "[Trap] When an opponent monster attacks: Reflect all battle damage back to your opponent." },
+    "214": { "name": "Fog of War", "description": "[Trap] When an opponent monster attacks: Cancel the attack." },
+    "215": { "name": "Ambush Trap", "description": "[Trap] When your opponent summons a monster: Destroy the strongest opponent monster." },
+    "216": { "name": "Retreat Order", "description": "[Trap] When your opponent summons a monster: Return the strongest opponent monster to their hand." },
+    "217": { "name": "Panic Strike", "description": "[Trap] When an opponent monster attacks: Opponent discards 1 card." },
+    "218": { "name": "Tidal Ward", "description": "[Trap] When an opponent monster attacks: Prevent battle damage and return the strongest opponent monster to their hand." },
+    "219": { "name": "Granite Rebuff", "description": "[Trap] When an opponent monster attacks: Reflect battle damage and permanently boost one of your monsters' DEF by 200." },
+    "220": { "name": "Vengeful Flame Trap", "description": "[Trap] When an opponent monster attacks: Destroy the attacking monster and deal 500 damage to your opponent." },
+    "221": { "name": "Disruption Signal", "description": "[Trap] When your opponent summons a monster: Opponent discards 1 card." },
+    "222": { "name": "Strategic Withdrawal", "description": "[Trap] When an opponent monster attacks: Cancel the attack and draw 1 card." },
+    "223": { "name": "Thunderbolt Ambush", "description": "[Trap] When your opponent summons a monster: Destroy the strongest opponent monster and deal 300 damage to your opponent." },
+    "224": { "name": "Steel Curtain", "description": "[Trap] When an opponent monster attacks: Prevent battle damage and destroy the attacking monster." },
+    "225": { "name": "Tidal Rout", "description": "[Trap] When your opponent summons a monster: Return all opponent monsters to their hand." },
 
-    "story_alliance_1": "To your surprise, Cao Pi appeared at the edge of the battlefield — not as an enemy, but with an outstretched hand.",
-    "story_alliance_2": "I know what you are thinking. But my father has gone too far. He plans to unleash Lu Bu — the demon of war itself.",
-    "story_alliance_3": "Neither of us can stop him alone. For now, let us combine our strength. After this is over... we shall see.",
-    "story_alliance_4": "An uneasy alliance was forged. Together, you pressed onward into the heart of the gathering storm.",
+    "226": { "name": "Iron Sword", "description": "[Equipment] Permanently boost a monster's ATK by 300." },
+    "227": { "name": "Bronze Shield", "description": "[Equipment] Permanently boost a monster's DEF by 300." },
+    "228": { "name": "Steel Blade", "description": "[Equipment] Permanently boost a monster's ATK by 400." },
+    "229": { "name": "Reinforced Armor", "description": "[Equipment] Permanently boost a monster's DEF by 400." },
+    "230": { "name": "War Glaive", "description": "[Equipment] Permanently boost a monster's ATK by 500." },
+    "231": { "name": "Tower Shield", "description": "[Equipment] Permanently boost a monster's DEF by 500." },
+    "232": { "name": "War Armor", "description": "[Equipment] Permanently boost a monster's ATK by 400 and DEF by 200." },
+    "233": { "name": "Dragon Fang", "description": "[Equipment] Permanently boost a monster's ATK by 600." },
+    "234": { "name": "Imperial Regalia", "description": "[Equipment] Permanently boost a monster's ATK by 500 and DEF by 300." },
+    "235": { "name": "Mandate of Heaven's Edge", "description": "[Equipment] Permanently boost a monster's ATK by 600 and DEF by 400." },
 
-    "duel_37_post_1": "Lu Bu let out a thunderous roar as he fell. But the ground beneath you began to tremble violently.",
-    "duel_37_post_2": "The warrior's body erupted in crimson light. When it faded, Lu Bu stood again — mounted atop the legendary Red Hare.",
-
-    "duel_38_post_1": "At last, Lu Bu collapsed for good. The Red Hare dissolved into embers that scattered on the wind.",
-    "duel_38_post_2": "But from the shadows behind the fallen warrior, a slow, deliberate clapping echoed across the battlefield.",
-    "duel_38_post_3": "Well played, both of you. But every piece on this board has moved exactly as I intended. Now — let me show you a true master's deck.",
-
-    "duel_39_post_1": "Cao Cao's final card shattered. The mastermind stared at his empty hand in disbelief, then began to laugh.",
-    "duel_39_post_2": "The Five Element cards blazed with light, and the dark energy that had torn the world apart began to recede.",
-    "duel_39_post_3": "The sky cleared. The land healed. The echoes of the Three Kingdoms faded into a gentle silence.",
-    "duel_39_post_4": "Your journey was over — but the cards remained, humming softly, as if waiting for the next great duelist to arise."
+    "236": { "name": "Sapling Token", "description": "A small sprout summoned to the field." },
+    "237": { "name": "Bone Shard Token", "description": "A fragment of dragon bone animated by dark energy." },
+    "238": { "name": "Ember Token", "description": "A flickering ember that burns with faint fire." },
+    "239": { "name": "Mist Token", "description": "A wisp of mist given fleeting form." },
+    "240": { "name": "Soldier Token", "description": "A humble foot soldier called to duty." }
   }
 }
