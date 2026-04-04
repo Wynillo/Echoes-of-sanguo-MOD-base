@@ -1,14 +1,11 @@
 [
-  { "id": 1,  "key": "Dragon",      "value": "Dragon",      "color": "#8040c0", "icon": "GiDragonHead" },
-  { "id": 2,  "key": "Spellcaster", "value": "Spellcaster", "color": "#6060c0", "icon": "GiWizardStaff" },
-  { "id": 3,  "key": "Warrior",     "value": "Warrior",     "color": "#c09030", "icon": "GiSwordman" },
-  { "id": 4,  "key": "Beast",       "value": "Beast",       "color": "#e07030", "icon": "GiTigerHead" },
-  { "id": 5,  "key": "Plant",       "value": "Plant",       "color": "#40a050", "icon": "GiTreeface" },
-  { "id": 6,  "key": "Rock",        "value": "Rock",        "color": "#808060", "icon": "GiRock" },
-  { "id": 7,  "key": "Phoenix",     "value": "Phoenix",     "color": "#e06020", "icon": "GiFlame" },
-  { "id": 8,  "key": "Undead",      "value": "Undead",      "color": "#804090", "icon": "GiSkull" },
-  { "id": 9,  "key": "Aqua",        "value": "Aqua",        "color": "#3080b0", "icon": "GiWater" },
-  { "id": 10, "key": "Insect",      "value": "Insect",      "color": "#90a040", "icon": "GiButterfly" },
-  { "id": 11, "key": "Machine",     "value": "Machine",     "color": "#708090", "icon": "GiMechanicalArm" },
-  { "id": 12, "key": "Pyro",        "value": "Pyro",        "color": "#c03010", "icon": "GiFire" }
+  { "id": 1, "key": "Water",   "value": "Water \u6c34",   "color": "#1a6aaa", "icon": "GiWaterDrop"   },
+  { "id": 2, "key": "Wood",    "value": "Wood \u6728",    "color": "#40a050", "icon": "GiOakLeaf"     },
+  { "id": 3, "key": "Earth",   "value": "Earth \u571f",   "color": "#807040", "icon": "GiMountains"   },
+  { "id": 4, "key": "Metal",   "value": "Metal \u91d1",   "color": "#909090", "icon": "GiAnvil"       },
+  { "id": 5, "key": "Fire",    "value": "Fire \u706b",    "color": "#c03010", "icon": "GiFire"        },
+  { "id": 6, "key": "Dragon",  "value": "Dragon",  "color": "#8040c0", "icon": "GiDragonHead"  },
+  { "id": 7, "key": "Phoenix", "value": "Phoenix", "color": "#e06020", "icon": "GiFlame"       },
+  { "id": 8, "key": "Warrior", "value": "Warrior", "color": "#c09030", "icon": "GiSwordman"    },
+  { "id": 9, "key": "Thunder", "value": "Thunder", "color": "#d4a000", "icon": "GiLightningStorm" }
 ]

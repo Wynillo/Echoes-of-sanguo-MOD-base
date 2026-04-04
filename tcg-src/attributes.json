@@ -1,8 +1,5 @@
 [
-  { "id": 1, "key": "Light", "value": "Light", "color": "#c09000", "icon": "GiSun" },
-  { "id": 2, "key": "Dark",  "value": "Dark",  "color": "#7020a0", "icon": "GiMoon" },
-  { "id": 3, "key": "Fire",  "value": "Fire",  "color": "#c0300a", "icon": "GiFire" },
-  { "id": 4, "key": "Water", "value": "Water", "color": "#1a6aaa", "icon": "GiWaterDrop" },
-  { "id": 5, "key": "Earth", "value": "Earth", "color": "#6a7030", "icon": "GiMountains" },
-  { "id": 6, "key": "Wind",  "value": "Wind",  "color": "#4a6080", "icon": "GiTornado" }
+  { "id": 1, "key": "Light",   "value": "Light",   "color": "#c09000", "icon": "GiSun"  },
+  { "id": 2, "key": "Dark",    "value": "Dark",    "color": "#7020a0", "icon": "GiMoon" },
+  { "id": 3, "key": "Neutral", "value": "Neutral", "color": "#607060", "icon": "GiYinYang" }
 ]
