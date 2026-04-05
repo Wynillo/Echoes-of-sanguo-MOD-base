@@ -1,13 +1,25 @@
 {
   "formulas": [
-    { "id": "metal_dragon",    "comboType": "race+race", "operand1": 4, "operand2": 6, "priority": 10, "resultPool": [163, 164] },
-    { "id": "dragon_warrior",  "comboType": "race+race", "operand1": 6, "operand2": 8, "priority": 10, "resultPool": [165, 166] },
-    { "id": "metal_warrior",   "comboType": "race+race", "operand1": 4, "operand2": 8, "priority": 10, "resultPool": [167, 168] },
-    { "id": "phoenix_fire",    "comboType": "race+race", "operand1": 7, "operand2": 5, "priority": 10, "resultPool": [169, 170] },
-    { "id": "thunder_water",   "comboType": "race+race", "operand1": 9, "operand2": 1, "priority": 10, "resultPool": [171, 172] },
-    { "id": "water_wood",      "comboType": "race+race", "operand1": 1, "operand2": 2, "priority": 10, "resultPool": [173, 174] },
-    { "id": "earth_metal",     "comboType": "race+race", "operand1": 3, "operand2": 4, "priority": 10, "resultPool": [175, 176] },
-    { "id": "fire_dragon",     "comboType": "race+race", "operand1": 5, "operand2": 6, "priority": 10, "resultPool": [177, 178] },
-    { "id": "phoenix_dragon",  "comboType": "race+race", "operand1": 7, "operand2": 6, "priority": 10, "resultPool": [179, 180] }
+    { "id": "metal_dragon",    "comboType": "race+race", "operand1": 4, "operand2": 6, "priority": 10, "resultPool": [163, 164, 241, 242, 243] },
+    { "id": "dragon_warrior",  "comboType": "race+race", "operand1": 6, "operand2": 8, "priority": 10, "resultPool": [165, 166, 244, 245, 246] },
+    { "id": "metal_warrior",   "comboType": "race+race", "operand1": 4, "operand2": 8, "priority": 10, "resultPool": [167, 168, 247, 248, 249] },
+    { "id": "phoenix_fire",    "comboType": "race+race", "operand1": 7, "operand2": 5, "priority": 10, "resultPool": [169, 170, 250, 251, 252] },
+    { "id": "thunder_water",   "comboType": "race+race", "operand1": 9, "operand2": 1, "priority": 10, "resultPool": [171, 172, 253, 254, 255] },
+    { "id": "water_wood",      "comboType": "race+race", "operand1": 1, "operand2": 2, "priority": 10, "resultPool": [173, 174, 256, 257, 258] },
+    { "id": "earth_metal",     "comboType": "race+race", "operand1": 3, "operand2": 4, "priority": 10, "resultPool": [175, 176, 259, 260, 261] },
+    { "id": "fire_dragon",     "comboType": "race+race", "operand1": 5, "operand2": 6, "priority": 10, "resultPool": [177, 178, 262, 263, 264] },
+    { "id": "phoenix_dragon",  "comboType": "race+race", "operand1": 7, "operand2": 6, "priority": 10, "resultPool": [179, 180, 265, 266, 267] },
+    { "id": "infantry_guardian",  "comboType": "race+race", "operand1": 1, "operand2": 3, "priority": 8, "resultPool": [268, 269] },
+    { "id": "infantry_berserker", "comboType": "race+race", "operand1": 1, "operand2": 5, "priority": 8, "resultPool": [270, 271] },
+    { "id": "infantry_phoenix",   "comboType": "race+race", "operand1": 1, "operand2": 7, "priority": 8, "resultPool": [272, 273] },
+    { "id": "defender_warrior",   "comboType": "race+race", "operand1": 2, "operand2": 4, "priority": 8, "resultPool": [274, 275] },
+    { "id": "defender_phoenix",   "comboType": "race+race", "operand1": 2, "operand2": 7, "priority": 8, "resultPool": [276, 277] },
+    { "id": "guardian_beast",     "comboType": "race+race", "operand1": 3, "operand2": 8, "priority": 8, "resultPool": [278, 279] },
+    { "id": "thunder_berserker",   "comboType": "race+race", "operand1": 9, "operand2": 5, "priority": 8, "resultPool": [280, 281] },
+    { "id": "chaos_amalgam",      "comboType": "race+race+race", "operand1": 1, "operand2": 4, "operand3": 9, "priority": 15, "resultPool": [282] },
+    { "id": "primordial_dragon",  "comboType": "race+race+race", "operand1": 6, "operand2": 6, "operand3": 6, "priority": 15, "resultPool": [283] },
+    { "id": "divine_phoenix",     "comboType": "race+race+race", "operand1": 7, "operand2": 7, "operand3": 7, "priority": 15, "resultPool": [284] },
+    { "id": "world_collider",     "comboType": "race+race+race", "operand1": 1, "operand2": 4, "operand3": 9, "priority": 15, "resultPool": [285] },
+    { "id": "ultimate_being",     "comboType": "race+race+race", "operand1": 6, "operand2": 8, "operand3": 7, "priority": 15, "resultPool": [286] }
   ]
 }
