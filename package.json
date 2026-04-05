@@ -1,6 +1,6 @@
 {
   "name": "@wynillo/echoes-mod-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Base TCG package for Echoes of Sanguo — contains the complete base card set, opponents, campaign, and all game data",
   "type": "module",
   "main": "./dist/base.tcg",
@@ -24,7 +24,7 @@
   "author": "Wynillo",
   "license": "MIT",
   "dependencies": {
-    "@wynillo/tcg-format": "github:Wynillo/Echoes-of-Sanguo-TCG#v2.0.1"
+    "@wynillo/tcg-format": "github:Wynillo/Echoes-of-Sanguo-TCG#v2.2.0"
   },
   "devDependencies": {
     "typescript": "~5.8.0",
