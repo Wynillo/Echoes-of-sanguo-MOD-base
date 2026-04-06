@@ -24,7 +24,7 @@
   "author": "Wynillo",
   "license": "MIT",
   "dependencies": {
-    "@wynillo/tcg-format": "github:Wynillo/Echoes-of-Sanguo-TCG#v2.1.0"
+    "@wynillo/tcg-format": "github:Wynillo/Echoes-of-Sanguo-TCG#v2.2.1"
   },
   "devDependencies": {
     "typescript": "~5.8.0",
