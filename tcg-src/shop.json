@@ -13,7 +13,7 @@
       },
       "slots": [
         { "count": 8 },
-        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.70, "6": 0.20, "8": 0.08, "10": 0.015, "12": 0.005 } }
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.92, "6": 0.08 } }
       ]
     },
     {
@@ -29,7 +29,7 @@
       },
       "slots": [
         { "count": 8 },
-        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.65, "6": 0.25, "8": 0.08, "10": 0.015, "12": 0.005 } }
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.82, "6": 0.15, "8": 0.03 } }
       ]
     },
     {
@@ -45,7 +45,7 @@
       },
       "slots": [
         { "count": 8 },
-        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.60, "6": 0.25, "8": 0.12, "10": 0.025, "12": 0.005 } }
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.65, "6": 0.25, "8": 0.08, "10": 0.02 } }
       ]
     },
     {
@@ -61,7 +61,7 @@
       },
       "slots": [
         { "count": 8 },
-        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.60, "6": 0.25, "8": 0.12, "10": 0.025, "12": 0.005 } }
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.55, "6": 0.27, "8": 0.13, "10": 0.04, "12": 0.01 } }
       ]
     },
     {
@@ -77,7 +77,7 @@
       },
       "slots": [
         { "count": 8 },
-        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.60, "6": 0.25, "8": 0.12, "10": 0.025, "12": 0.005 } }
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.48, "6": 0.28, "8": 0.15, "10": 0.06, "12": 0.03 } }
       ]
     },
     {
@@ -93,7 +93,7 @@
       },
       "slots": [
         { "count": 8 },
-        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.60, "6": 0.25, "8": 0.12, "10": 0.025, "12": 0.005 } }
+        { "count": 1, "pool": "guaranteed_rare_plus", "distribution": { "4": 0.40, "6": 0.28, "8": 0.18, "10": 0.09, "12": 0.05 } }
       ]
     }
   ],

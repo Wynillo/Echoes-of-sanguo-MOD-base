@@ -2174,91 +2174,106 @@
     "id": 211,
     "rarity": 1,
     "type": 4,
-    "effect": "onAttack:preventBattleDamage()"
+    "effect": "onAttack:preventBattleDamage()",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 212,
     "rarity": 2,
     "type": 4,
-    "effect": "onAttack:destroyAttacker()"
+    "effect": "onAttack:destroyAttacker()",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 213,
     "rarity": 2,
     "type": 4,
-    "effect": "onAttack:reflectBattleDamage()"
+    "effect": "onAttack:reflectBattleDamage()",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 214,
     "rarity": 1,
     "type": 4,
-    "effect": "onAttack:cancelAttack()"
+    "effect": "onAttack:cancelAttack()",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 215,
     "rarity": 4,
     "type": 4,
-    "effect": "onOpponentSummon:destroyStrongestOpp()"
+    "effect": "onOpponentSummon:destroyStrongestOpp()",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 216,
     "rarity": 2,
     "type": 4,
-    "effect": "onOpponentSummon:bounceStrongestOpp()"
+    "effect": "onOpponentSummon:bounceStrongestOpp()",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 217,
     "rarity": 2,
     "type": 4,
-    "effect": "onAttack:discardOppHand(1)"
+    "effect": "onAttack:discardOppHand(1)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 218,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:preventBattleDamage();bounceStrongestOpp()"
+    "effect": "onAttack:preventBattleDamage();bounceStrongestOpp()",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 219,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:reflectBattleDamage();permDefBonus(ownMonster,200)"
+    "effect": "onAttack:reflectBattleDamage();permDefBonus(ownMonster,200)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 220,
     "rarity": 6,
     "type": 4,
-    "effect": "onAttack:destroyAttacker();dealDamage(opponent,500)"
+    "effect": "onAttack:destroyAttacker();dealDamage(opponent,500)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 221,
     "rarity": 2,
     "type": 4,
-    "effect": "onOpponentSummon:discardOppHand(1)"
+    "effect": "onOpponentSummon:discardOppHand(1)",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 222,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:cancelAttack();draw(self,1)"
+    "effect": "onAttack:cancelAttack();draw(self,1)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 223,
     "rarity": 6,
     "type": 4,
-    "effect": "onOpponentSummon:destroyStrongestOpp();dealDamage(opponent,300)"
+    "effect": "onOpponentSummon:destroyStrongestOpp();dealDamage(opponent,300)",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 224,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:preventBattleDamage();destroyAttacker()"
+    "effect": "onAttack:preventBattleDamage();destroyAttacker()",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 225,
     "rarity": 6,
     "type": 4,
-    "effect": "onOpponentSummon:bounceAllOppMonsters()"
+    "effect": "onOpponentSummon:bounceAllOppMonsters()",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 226,
@@ -4361,132 +4376,154 @@
     "id": 435,
     "rarity": 4,
     "type": 4,
-    "effect": "onOpponentSummon:destroyStrongestOpp();skipOppDraw()"
+    "effect": "onOpponentSummon:destroyStrongestOpp();skipOppDraw()",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 436,
     "rarity": 6,
     "type": 4,
-    "effect": "onAttack:destroyAttacker();dealDamage(opponent,800)"
+    "effect": "onAttack:destroyAttacker();dealDamage(opponent,800)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 437,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:reflectBattleDamage();draw(self,1)"
+    "effect": "onAttack:reflectBattleDamage();draw(self,1)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 438,
     "rarity": 6,
     "type": 4,
-    "effect": "onOpponentSummon:bounceAllOppMonsters();discardOppHand(1)"
+    "effect": "onOpponentSummon:bounceAllOppMonsters();discardOppHand(1)",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 439,
     "rarity": 8,
     "type": 4,
-    "effect": "onAttack:negateAttack();bounceStrongestOpp();draw(self,1)"
+    "effect": "onAttack:negateAttack();bounceStrongestOpp();draw(self,1)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 440,
     "rarity": 6,
     "type": 4,
-    "effect": "onAttack:preventBattleDamage();destroyAttacker();dealDamage(opponent,500)"
+    "effect": "onAttack:preventBattleDamage();destroyAttacker();dealDamage(opponent,500)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 441,
     "rarity": 8,
     "type": 4,
-    "effect": "onOpponentSummon:destroyAllOpp();skipOppDraw()"
+    "effect": "onOpponentSummon:destroyAllOpp();skipOppDraw()",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 442,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:cancelAttack();draw(self,1)"
+    "effect": "onAttack:cancelAttack();draw(self,1)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 443,
     "rarity": 6,
     "type": 4,
-    "effect": "onAttack:cancelAttack();bounceStrongestOpp();dealDamage(opponent,300)"
+    "effect": "onAttack:cancelAttack();bounceStrongestOpp();dealDamage(opponent,300)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 444,
     "rarity": 8,
     "type": 4,
-    "effect": "onAttack:cancelAttack();destroyAttacker();draw(self,2)"
+    "effect": "onAttack:cancelAttack();destroyAttacker();draw(self,2)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 445,
     "rarity": 6,
     "type": 4,
-    "effect": "onOpponentSummon:discardOppHand(2)"
+    "effect": "onOpponentSummon:discardOppHand(2)",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 446,
     "rarity": 8,
     "type": 4,
-    "effect": "onOpponentSummon:discardOppHand(3);skipOppDraw()"
+    "effect": "onOpponentSummon:discardOppHand(3);skipOppDraw()",
+    "trapTrigger": "onOpponentSummon"
   },
   {
     "id": 447,
     "rarity": 4,
     "type": 4,
-    "effect": "onAttack:reflectDamage(2x)"
+    "effect": "onAttack:reflectDamage(2x)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 448,
     "rarity": 6,
     "type": 4,
-    "effect": "onAttack:reflectDamage(3x)"
+    "effect": "onAttack:reflectDamage(3x)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 449,
     "rarity": 8,
     "type": 4,
-    "effect": "onAttack:reflectDamage(4x);dealDamage(opponent,200)"
+    "effect": "onAttack:reflectDamage(4x);dealDamage(opponent,200)",
+    "trapTrigger": "onAttack"
   },
   {
     "id": 450,
     "rarity": 6,
     "type": 4,
-    "effect": "onOppCardEffect:negate;destroyOppSpellTrap(1)"
+    "effect": "onOppCardEffect:negate;destroyOppSpellTrap(1)",
+    "trapTrigger": "onOppCardEffect"
   },
   {
     "id": 451,
     "rarity": 8,
     "type": 4,
-    "effect": "onOppCardEffect:negate;destroyAllOppSpellTraps()"
+    "effect": "onOppCardEffect:negate;destroyAllOppSpellTraps()",
+    "trapTrigger": "onOppCardEffect"
   },
   {
     "id": 452,
     "rarity": 10,
     "type": 4,
-    "effect": "onOppCardEffect:negate;destroyAllOpp();draw(self,2)"
+    "effect": "onOppCardEffect:negate;destroyAllOpp();draw(self,2)",
+    "trapTrigger": "onOppCardEffect"
   },
   {
     "id": 453,
     "rarity": 4,
     "type": 4,
-    "effect": "onOpponentDraw:discardOppHand(1)"
+    "effect": "onOpponentDraw:discardOppHand(1)",
+    "trapTrigger": "onOpponentDraw"
   },
   {
     "id": 454,
     "rarity": 6,
     "type": 4,
-    "effect": "onOpponentDraw:discardOppHand(2);skipOppDraw()"
+    "effect": "onOpponentDraw:discardOppHand(2);skipOppDraw()",
+    "trapTrigger": "onOpponentDraw"
   },
   {
     "id": 455,
     "rarity": 6,
     "type": 4,
-    "effect": "onOwnMonsterAttacked:destroyAttacker();preventBattleDamage()"
+    "effect": "onOwnMonsterAttacked:destroyAttacker();preventBattleDamage()",
+    "trapTrigger": "onOwnMonsterAttacked"
   },
   {
     "id": 456,
     "rarity": 8,
     "type": 4,
-    "effect": "onOwnMonsterAttacked:destroyAttacker();reflectBattleDamage();dealDamage(opponent,400)"
+    "effect": "onOwnMonsterAttacked:destroyAttacker();reflectBattleDamage();dealDamage(opponent,400)",
+    "trapTrigger": "onOwnMonsterAttacked"
   }
 ]
