@@ -253,5 +253,187 @@
     "238": { "name": "Ember Token", "description": "A flickering ember that burns with faint fire." },
     "239": { "name": "Mist Token", "description": "A wisp of mist given fleeting form." },
     "240": { "name": "Soldier Token", "description": "A humble foot soldier called to duty." }
+  },
+  "opponents": {
+    "1": { "name": "Pang Tong", "title": "The Mentor", "flavor": "A wise advisor at the imperial court." },
+    "2": { "name": "Sun Shangxiang", "title": "Warrior Princess", "flavor": "The fierce princess of Wu." },
+    "3": { "name": "Zhao Yun", "title": "The Brave General", "flavor": "A loyal general with unwavering honor." },
+    "4": { "name": "Villager", "title": "Simple Farmer", "flavor": "A villager who must defend himself." },
+    "5": { "name": "Villager", "title": "Wandering Merchant", "flavor": "A traveling merchant with a few cards." },
+    "6": { "name": "Villager", "title": "Village Elder", "flavor": "The most experienced duelist in the village." },
+    "7": { "name": "Cao Pi", "title": "The Hero's Rival", "flavor": "The ambitious son of the Wei clan." },
+    "8": { "name": "Zhang Jue", "title": "Master of the Yellow Sky", "flavor": "The leader of the Yellow Turbans. His sorcery is overwhelming." },
+    "9": { "name": "Tang Long", "title": "The Tiger", "flavor": "His deck is as fierce as a tiger on the hunt." },
+    "10": { "name": "Hua Min", "title": "Mistress of Metamorphosis", "flavor": "Her creatures transform before your eyes." },
+    "11": { "name": "Feng Hua", "title": "Dance of the Fenghuang", "flavor": "Born from ashes, indestructible and beautiful." },
+    "12": { "name": "Jake Steele", "title": "Master of Machines", "flavor": "Cold steel meets raw power." },
+    "13": { "name": "Dao Ren", "title": "Master of Trigrams", "flavor": "The eight symbols reveal the future to him." },
+    "14": { "name": "Bai Chen", "title": "Lord of the Jiangshi", "flavor": "His undead servants know neither fatigue nor mercy." },
+    "15": { "name": "Maximilian Crest", "title": "The Last Samurai", "flavor": "A master swordsman from a forgotten era." },
+    "16": { "name": "Yü Yan", "title": "Voice of the Xuanwu", "flavor": "The water obeys her will." },
+    "17": { "name": "Wei Pi", "title": "Heir of the Dragon Throne", "flavor": "His dragon fire consumes all." },
+    "18": { "name": "Huang Bing", "title": "Yellow Turban Foot Soldier", "flavor": "The first enemy after returning to the past." },
+    "19": { "name": "Zhao Yun", "title": "The Brave General (2nd Duel)", "flavor": "The general challenges you once more." },
+    "20": { "name": "Sun Shangxiang", "title": "Warrior Princess (2nd Duel)", "flavor": "The princess reveals her true strength." },
+    "21": { "name": "Zhan Liu", "title": "Apprentice of the Water Shrine", "flavor": "His damp current is only the beginning." },
+    "22": { "name": "Xuan Shui", "title": "Master of the Water Shrine", "flavor": "The dark water devours everything." },
+    "23": { "name": "Qing Miao", "title": "Apprentice of the Wood Shrine", "flavor": "A green sprout that becomes a tree." },
+    "24": { "name": "Ku Mu", "title": "Master of the Wood Shrine", "flavor": "Dead wood that still lives." },
+    "25": { "name": "Huang Sha", "title": "Apprentice of the Earth Shrine", "flavor": "The yellow sand swallows everything." },
+    "26": { "name": "Hou Tu", "title": "Master of the Earth Shrine", "flavor": "Heavy earth, immovable stone." },
+    "27": { "name": "Duan Ren", "title": "Apprentice of the Metal Shrine", "flavor": "The forged blade seeks its target." },
+    "28": { "name": "Bai Jin", "title": "Master of the Metal Shrine", "flavor": "White gold — unbreakable and eternal." },
+    "29": { "name": "Xiao Yan", "title": "Apprentice of the Fire Shrine", "flavor": "The small flame burns everything." },
+    "30": { "name": "Chi Yan", "title": "Master of the Fire Shrine", "flavor": "The red flame knows no mercy." },
+    "31": { "name": "Mi Hun", "title": "The Misleading Soul", "flavor": "Neither human nor spirit — the labyrinth itself." },
+    "32": { "name": "Cao Pi", "title": "The Hero's Rival (2nd Duel)", "flavor": "The traitor reveals his true face." },
+    "33": { "name": "Shan Hu", "title": "The Mountain Tiger", "flavor": "Silent, waiting, invincible." },
+    "34": { "name": "Ye Lang", "title": "The Night Wolf", "flavor": "Aggressive from the very first turn." },
+    "35": { "name": "Zhang Jue", "title": "Master of the Yellow Sky (2nd Duel)", "flavor": "This time, he must fall." },
+    "36": { "name": "Cao Pi", "title": "Forced Alliance", "flavor": "A fragile alliance against a greater threat." },
+    "37": { "name": "Lu Bu", "title": "The Invincible Warrior", "flavor": "Unleashed by Zhang Jue — pure destruction." },
+    "38": { "name": "Lu Bu & Red Hare", "title": "Rider and Steed", "flavor": "The true form — physical immortality." },
+    "39": { "name": "Cao Cao", "title": "The Man Behind It All", "flavor": "Duel Master C — the true master." }
+  },
+  "races": {
+    "Dragon": "Dragon",
+    "Spellcaster": "Spellcaster",
+    "Warrior": "Warrior",
+    "Beast": "Beast",
+    "Plant": "Plant",
+    "Rock": "Rock",
+    "Phoenix": "Phoenix",
+    "Undead": "Undead",
+    "Aqua": "Aqua",
+    "Insect": "Insect",
+    "Machine": "Machine",
+    "Pyro": "Pyro"
+  },
+  "attributes": {
+    "Light": "Light",
+    "Dark": "Dark",
+    "Fire": "Fire",
+    "Water": "Water",
+    "Earth": "Earth",
+    "Wind": "Wind"
+  },
+  "cardTypes": {
+    "Monster": "Monster",
+    "Fusion": "Fusion Monster",
+    "Spell": "Spell",
+    "Trap": "Trap",
+    "Equipment": "Equipment"
+  },
+  "rarities": {
+    "Normal": "Normal",
+    "Uncommon": "Uncommon",
+    "Rare": "Rare",
+    "SuperRare": "Super Rare",
+    "HyperRare": "Hyper Rare",
+    "UltraRare": "Ultra Rare",
+    "Ultra": "Ultra"
+  },
+  "shop": {
+    "tier_1_recruit": {
+      "name": "Recruit Supply",
+      "desc": "9 Cards · Beginner · Max 1500 ATK"
+    },
+    "tier_2_soldier": {
+      "name": "Soldier Stock",
+      "desc": "9 Cards · Intermediate · Max 1800 ATK"
+    },
+    "tier_3_officer": {
+      "name": "Officer's Bounty",
+      "desc": "9 Cards · Advanced · Max 2100 ATK"
+    },
+    "tier_4_commander": {
+      "name": "Commander's Vault",
+      "desc": "9 Cards · Expert · Max 2500 ATK"
+    },
+    "tier_5_temple": {
+      "name": "Temple Relics",
+      "desc": "9 Cards · Elite · Max 3000 ATK · No Ultra Rare"
+    },
+    "tier_6_warlord": {
+      "name": "Warlord's Armory",
+      "desc": "9 Cards · Legendary · All cards available"
+    }
+  },
+  "campaign": {
+    "ch_han_court": "Chapter 1: The Court of Han",
+    "ch_tournament": "Chapter 2: The Tournament",
+    "ch_return": "Chapter 3: The Return",
+    "ch_wu_xing": "Chapter 4: The Wu Xing Labyrinth",
+    "ch_betrayal": "Chapter 5: The Betrayal",
+    "ch_endgame": "Chapter 6: Endgame",
+    "ch_postgame": "Chapter 7: Beyond the Horizon",
+
+    "story_intro_1": "The Han Dynasty crumbles. Warlords carve the empire into warring kingdoms, and the people suffer under endless war.",
+    "story_intro_2": "Yet amidst the chaos, a different kind of battle has emerged — one fought not with swords, but with cards of power.",
+    "story_intro_3": "Oh, a new face at the imperial court! I am Pang Tong. Tell me — do you know the way of duel cards?",
+    "story_intro_4": "Each card holds the spirit of a warrior, a beast, or a spell. Master them, and you master the battlefield itself.",
+    "story_intro_5": "Take this starter deck. Prove your worth against the court's duelists, and perhaps you will earn a place in the grand tournament.",
+
+    "duel_7_post_1": "Impressive. You actually managed to defeat me. Don't let it go to your head — I wasn't even trying.",
+    "duel_7_post_2": "But mark my words: the next time we meet, I will crush you without mercy. The Wei clan does not lose twice.",
+    "duel_7_post_3": "Cao Pi left with a cold smile. His ambition was unmistakable — this rivalry was far from over.",
+
+    "duel_8_post_1": "The Yellow Sky watches over all. You fought well, child, yet the heavens cannot be moved by mortal strength alone.",
+    "duel_8_post_2": "Zhang Jue's sorcery proved too powerful. The cards scattered like leaves in a storm.",
+    "duel_8_post_3": "A blinding light engulfed the arena. When it faded, the world around you had... changed.",
+    "duel_8_post_4": "The imperial court was gone. In its place stood an unknown land — the past, or perhaps something even stranger.",
+
+    "story_arrival_1": "After days of wandering, you reached a great walled city. Banners of every color hung from its towers.",
+    "story_arrival_2": "This was the legendary Tournament of the Three Kingdoms — where the greatest duelists from all lands gathered.",
+    "story_arrival_3": "The prize: a set of cards said to hold the power of the ancient Five Elements.",
+    "story_arrival_4": "To claim them, you would need to fight through qualifiers, quarterfinals, semifinals, and a grand finale.",
+    "story_arrival_5": "You entered your name and stepped into the arena. The crowd roared. The tournament had begun.",
+
+    "duel_17_post_1": "The final card hit the field, and the crowd erupted in cheers. Against all odds, you had won the tournament.",
+    "duel_17_post_2": "The Five Elements cards were yours. Yet as you held them, a strange energy pulsed through your fingertips.",
+    "duel_17_post_3": "Something awakened — something ancient and powerful. The cards seemed to call you to a distant place.",
+
+    "story_return_1": "Guided by the pull of the Five Elements cards, you traveled deep into the wilderness beyond the city walls.",
+    "story_return_2": "Familiar faces appeared along the way — old rivals seeking a rematch, and new enemies drawn by your growing fame.",
+    "story_return_3": "The cards pulsed stronger with each step. Whatever lay ahead — there was no turning back.",
+    "story_return_4": "At last, you stood before a massive stone gate, adorned with the symbols of Water, Wood, Earth, Metal, and Fire.",
+
+    "duel_31_pre_1": "You dare enter my domain? I am Mi Hun — I am the labyrinth, and the labyrinth is me.",
+    "duel_31_pre_2": "Every soul that wanders these halls feeds my power. Your Five Elements cards summoned you here — but they will not save you.",
+    "duel_31_pre_3": "Then come, mortal. Let us see if your cards can unravel what your mind cannot.",
+
+    "duel_31_post_1": "The labyrinth trembled and began to collapse. Mi Hun's form dissolved into mist, with one final, echoing whisper.",
+    "duel_31_post_2": "As the walls crumbled, a hidden passage was revealed — deeper underground, toward a faint, ominous glow.",
+
+    "story_betrayal_1": "You stepped out of the labyrinth into daylight, only to see a familiar figure waiting at the exit.",
+    "story_betrayal_2": "Surprised? You shouldn't be. I've been tracking your progress since the tournament. Those Five Elements cards — I need them.",
+    "story_betrayal_3": "My father demands power, and I will bring it to him. Hand over the cards, or I will take them by force.",
+    "story_betrayal_4": "Did you really believe we were rivals? No — you were just a pawn, sent to gather what I could not reach alone.",
+    "story_betrayal_5": "Cao Pi drew his deck. There would be no negotiation. Only battle.",
+
+    "duel_32_post_1": "Cao Pi stumbled back, his cards scattered across the ground. Defeat was written on his face.",
+    "duel_32_post_2": "This... this changes nothing. My father will still get what he wants. You have no idea what's coming for you.",
+    "duel_32_post_3": "He vanished into the shadows. His words lingered — who was the true enemy pulling the strings from behind?",
+
+    "duel_35_post_1": "Zhang Jue sank to his knees, his mystical aura flickering and fading like a dying flame.",
+    "duel_35_post_2": "You have grown strong... yet I was never the true threat. The one who summoned me — he still lurks in the shadows.",
+    "duel_35_post_3": "Before you could question him further, a dark portal tore open behind the fallen sorcerer. Something immense stirred within.",
+
+    "story_alliance_1": "To your surprise, Cao Pi appeared at the edge of the battlefield — not as an enemy, but with an outstretched hand.",
+    "story_alliance_2": "I know what you're thinking. But my father has gone too far. He plans to unleash Lu Bu — the war demon himself.",
+    "story_alliance_3": "Neither of us can stop him alone. For now — let us join forces. When this is over... we shall see.",
+    "story_alliance_4": "An uneasy alliance was forged. Together, you pressed forward into the heart of the gathering storm.",
+
+    "duel_37_post_1": "Lu Bu let out a thunderous roar as he fell. Yet the ground beneath you began to shake violently.",
+    "duel_37_post_2": "The warrior's body erupted in crimson light. When it faded, Lu Bu stood once more — riding the legendary Red Hare.",
+
+    "duel_38_post_1": "At last, Lu Bu collapsed for good. The Red Hare dissolved into embers carried away by the wind.",
+    "duel_38_post_2": "Yet from the shadows behind the fallen warrior, a slow, deliberate clapping echoed across the battlefield.",
+    "duel_38_post_3": "Well played, both of you. But every piece on this board moved exactly as I intended. Now — let me show you the deck of a true master.",
+
+    "duel_39_post_1": "Cao Cao's final card shattered. The mastermind stared in disbelief at his empty hand, then began to laugh.",
+    "duel_39_post_2": "The Five Elements cards blazed with brilliant light, and the dark energy that had torn the world apart began to recede.",
+    "duel_39_post_3": "The sky cleared. The land healed. The echoes of the Three Kingdoms faded into gentle silence.",
+    "duel_39_post_4": "Your journey was over — yet the cards remained, humming softly, as if waiting for the next great duelist."
   }
 }
