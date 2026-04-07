@@ -383,6 +383,15 @@
     "Trap": "Falle",
     "Equipment": "Ausrüstung"
   },
+  "rarities": {
+    "Normal": "Normal",
+    "Uncommon": "Ungewöhnlich",
+    "Rare": "Selten",
+    "SuperRare": "Super Selten",
+    "HyperRare": "Hyper Selten",
+    "UltraRare": "Ultra Selten",
+    "Ultra": "Ultra"
+  },
   "shop": {
     "tier_1_recruit": {
       "name": "Rekruten-Vorrat",
