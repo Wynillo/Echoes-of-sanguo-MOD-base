@@ -1,7 +1,7 @@
 [
-  { "id": 1, "key": "Monster",   "value": "Monster",        "color": "#c8a850", "icon": "GiMonsterGrasp" },
-  { "id": 2, "key": "Fusion",    "value": "Fusion Monster", "color": "#a050c0", "icon": "GiMagicSwirl" },
-  { "id": 3, "key": "Spell",     "value": "Spell",          "color": "#1dc0a0", "icon": "GiSpellBook" },
-  { "id": 4, "key": "Trap",      "value": "Trap",           "color": "#bc2060", "icon": "GiBearTrap" },
-  { "id": 5, "key": "Equipment", "value": "Equipment",      "color": "#e08030", "icon": "GiCrossedSwords" }
+  { "id": 1, "key": "Monster",   "color": "#c8a850", "icon": "GiMonsterGrasp" },
+  { "id": 2, "key": "Fusion",    "color": "#a050c0", "icon": "GiMagicSwirl" },
+  { "id": 3, "key": "Spell",     "color": "#1dc0a0", "icon": "GiSpellBook" },
+  { "id": 4, "key": "Trap",      "color": "#bc2060", "icon": "GiBearTrap" },
+  { "id": 5, "key": "Equipment", "color": "#e08030", "icon": "GiCrossedSwords" }
 ]

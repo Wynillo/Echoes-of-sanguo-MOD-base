@@ -1,11 +1,11 @@
 [
-  { "id": 1, "key": "Water",   "value": "Water \u6c34",   "color": "#1a6aaa", "icon": "GiWaterDrop"   },
-  { "id": 2, "key": "Wood",    "value": "Wood \u6728",    "color": "#40a050", "icon": "GiOakLeaf"     },
-  { "id": 3, "key": "Earth",   "value": "Earth \u571f",   "color": "#807040", "icon": "GiMountains"   },
-  { "id": 4, "key": "Metal",   "value": "Metal \u91d1",   "color": "#909090", "icon": "GiAnvil"       },
-  { "id": 5, "key": "Fire",    "value": "Fire \u706b",    "color": "#c03010", "icon": "GiFire"        },
-  { "id": 6, "key": "Dragon",  "value": "Dragon",  "color": "#8040c0", "icon": "GiDragonHead"  },
-  { "id": 7, "key": "Phoenix", "value": "Phoenix", "color": "#e06020", "icon": "GiFlame"       },
-  { "id": 8, "key": "Warrior", "value": "Warrior", "color": "#c09030", "icon": "GiSwordman"    },
-  { "id": 9, "key": "Thunder", "value": "Thunder", "color": "#d4a000", "icon": "GiLightningStorm" }
+  { "id": 1, "key": "Water",    "color": "#1a6aaa", "icon": "GiWaterDrop"   },
+  { "id": 2, "key": "Wood",     "color": "#40a050", "icon": "GiOakLeaf"     },
+  { "id": 3, "key": "Earth",    "color": "#807040", "icon": "GiMountains"   },
+  { "id": 4, "key": "Metal",    "color": "#909090", "icon": "GiAnvil"       },
+  { "id": 5, "key": "Fire",     "color": "#c03010", "icon": "GiFire"        },
+  { "id": 6, "key": "Dragon",   "color": "#8040c0", "icon": "GiDragonHead"  },
+  { "id": 7, "key": "Phoenix",  "color": "#e06020", "icon": "GiFlame"       },
+  { "id": 8, "key": "Warrior",  "color": "#c09030", "icon": "GiSwordman"    },
+  { "id": 9, "key": "Thunder",  "color": "#d4a000", "icon": "GiLightningStorm" }
 ]

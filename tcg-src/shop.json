@@ -84,6 +84,7 @@
       "nameKey": "shop.tier_6_warlord.name",
       "descKey": "shop.tier_6_warlord.desc",
       "price": 800,
+      "currency":"",
       "icon": "👑",
       "color": "#c0a020",
       "unlockCondition": { "type": "nodeComplete", "nodeId": "duel_31" },
@@ -96,10 +97,21 @@
       ]
     }
   ],
-  "currency": {
-    "nameKey": "common.coins",
-    "icon": "◈"
-  },
+  "currencies": [
+    {
+      "nameKey": "common.coins",
+      "icon": "◈"
+    },
+    {
+      "nameKey": "common.moderncoins",
+      "icon": "◈"
+    },
+    {
+      "nameKey": "common.ancientcoins",
+      "icon": "◈"
+    }
+  ]
+  ,
   "backgrounds": {
     "ch1": "ui/shop-bg-ancient.png",
     "ch2": "ui/shop-bg-tournament.png"

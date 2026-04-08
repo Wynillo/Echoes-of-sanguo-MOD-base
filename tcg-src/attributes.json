@@ -1,5 +1,5 @@
 [
-  { "id": 1, "key": "Light",   "value": "Light",   "color": "#c09000", "icon": "GiSun"  },
-  { "id": 2, "key": "Dark",    "value": "Dark",    "color": "#7020a0", "icon": "GiMoon" },
-  { "id": 3, "key": "Neutral", "value": "Neutral", "color": "#607060", "icon": "GiYinYang" }
+  { "id": 1, "key": "Light",   "color": "#c09000", "icon": "GiSun"  },
+  { "id": 2, "key": "Dark",    "color": "#7020a0", "icon": "GiMoon" },
+  { "id": 3, "key": "Neutral", "color": "#607060", "icon": "GiYinYang" }
 ]
