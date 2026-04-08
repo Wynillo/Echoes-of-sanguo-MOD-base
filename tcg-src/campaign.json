@@ -1,7 +1,10 @@
 {
+  "backgrounds": {
+    "title-bg": "ui/title-bg.png"
+  },
   "chapters": [
     {
-      "id": "ch_han_court",
+      "id": "ch1",
       "titleKey": "campaign.ch_han_court",
       "nodes": [
         {
@@ -12,7 +15,7 @@
           "unlockCondition": null,
           "rewards": null,
           "scene": {
-            "background": "bg_default",
+            "background": "title-bg",
             "dialogue": [
               {
                 "textKey": "campaign.story_intro_1",
@@ -61,8 +64,58 @@
           "rewards": { "coins": 100, "cards": null, "unlocks": null },
           "opponentId": 1,
           "isBoss": false,
-          "preDialogue": null,
-          "postDialogue": null
+          "preDialogue":  { 
+            "background": "bg_default",
+            "dialoge":[
+              {
+                "textKey": "campaign.duel_1_pre_1",
+                "speaker": "Pang Tong",
+                "portrait": null,
+                "side": "right",
+                "foregrounds": null
+              },
+              {
+                "textKey": "campaign.duel_1_pre_2",
+                "speaker": "Pang Tong",
+                "portrait": null,
+                "side": "right",
+                "foregrounds": null
+              },
+              {
+                "textKey": "campaign.duel_1_pre_3",
+                "speaker": "Narrator",
+                "portrait": null,
+                "side": "left",
+                "foregrounds": null
+              }
+            ]
+          },
+          "postDialogue": { 
+            "background": "bg_default",
+            "dialoge":[
+              {
+                "textKey": "campaign.duel_1_post_1",
+                "speaker": "Pang Tong",
+                "portrait": null,
+                "side": "right",
+                "foregrounds": null
+              },
+              {
+                "textKey": "campaign.duel_1_post_2",
+                "speaker": "Narrator",
+                "portrait": null,
+                "side": "right",
+                "foregrounds": null
+              },
+              {
+                "textKey": "campaign.duel_1_post_3",
+                "speaker": "Narrator",
+                "portrait": null,
+                "side": "left",
+                "foregrounds": null
+              }
+            ]
+          }
         },
         {
           "id": "duel_2",
@@ -209,7 +262,7 @@
       ]
     },
     {
-      "id": "ch_tournament",
+      "id": "ch2",
       "titleKey": "campaign.ch_tournament",
       "nodes": [
         {
@@ -339,7 +392,7 @@
       ]
     },
     {
-      "id": "ch_return",
+      "id": "ch3",
       "titleKey": "campaign.ch_return",
       "nodes": [
         {
@@ -422,7 +475,7 @@
       ]
     },
     {
-      "id": "ch_wu_xing",
+      "id": "ch4",
       "titleKey": "campaign.ch_wu_xing",
       "nodes": [
         {
@@ -603,7 +656,7 @@
       ]
     },
     {
-      "id": "ch_betrayal",
+      "id": "ch5",
       "titleKey": "campaign.ch_betrayal",
       "nodes": [
         {
@@ -694,7 +747,7 @@
       ]
     },
     {
-      "id": "ch_endgame",
+      "id": "ch6",
       "titleKey": "campaign.ch_endgame",
       "nodes": [
         {
@@ -881,7 +934,7 @@
       ]
     },
     {
-      "id": "ch_postgame",
+      "id": "ch7",
       "titleKey": "campaign.ch_postgame",
       "nodes": [
         {

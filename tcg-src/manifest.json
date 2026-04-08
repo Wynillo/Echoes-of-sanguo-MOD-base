@@ -1,1 +1,17 @@
-{"formatVersion":2,"name":"Echoes of Sanguo — Base Set","author":"Wynillo"}
+{
+  "id": "echoes-base",
+  "name": "Echoes of Sanguo — Base Set",
+  "version": "1.0.1",
+  "author": "Wynillo",
+  "description": "",
+  "type": "base",
+  "entrypoint": "base.tcg",
+  "importMethods": {
+    "link": "https://github.com/Wynillo/Echoes-of-sanguo-MOD-base/releases/latest/download/base.tcg",
+    "file": "base.tcg"
+  },
+  "compatibility": {
+    "minEngineVersion": "1.0.0",
+    "formatVersion": 2
+  }
+}

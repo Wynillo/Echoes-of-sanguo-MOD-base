@@ -1,9 +1,9 @@
 [
-  { "id": 1,  "key": "Normal",       "value": "Normal",       "color": "#aaaaaa" },
-  { "id": 2,  "key": "Uncommon",     "value": "Uncommon",     "color": "#7ec8e3" },
-  { "id": 4,  "key": "Rare",         "value": "Rare",         "color": "#f5c518" },
-  { "id": 6,  "key": "SuperRare",    "value": "Super Rare",   "color": "#c084fc" },
-  { "id": 8,  "key": "HyperRare",    "value": "Hyper Rare",   "color": "#f97316" },
-  { "id": 10, "key": "UltraRare",    "value": "Ultra Rare",   "color": "#ff6600" },
-  { "id": 12, "key": "Ultra",        "value": "Ultra",        "color": "#000000" }
+  { "id": 1,  "key": "Normal",     "color": "#aaaaaa" },
+  { "id": 2,  "key": "Uncommon",   "color": "#7ec8e3" },
+  { "id": 4,  "key": "Rare",       "color": "#f5c518" },
+  { "id": 6,  "key": "SuperRare",  "color": "#c084fc" },
+  { "id": 8,  "key": "HyperRare",  "color": "#f97316" },
+  { "id": 10, "key": "UltraRare",  "color": "#ff6600" },
+  { "id": 12, "key": "Ultra",      "color": "#000000" }
 ]

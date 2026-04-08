@@ -4,7 +4,7 @@
     "race": 1,
     "coinsWin": 100,
     "coinsLoss": 0,
-    "deckIds": [1, 1, 2, 2, 3, 3, 4, 4, 181, 211, 96],
+    "deckIds": [1, 2, 3, 4, 181, 211, 96],
     "behavior": "default"
   },
   {
