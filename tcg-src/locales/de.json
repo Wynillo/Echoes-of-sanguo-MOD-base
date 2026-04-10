@@ -355,18 +355,15 @@
     "39": { "name": "Cao Cao", "title": "Der Mann hinter allem", "flavor": "Duell-Meister C - der wahre Meister." }
   },
   "races": {
+    "Water": "Wasser",
+    "Wood": "Holz",
+    "Earth": "Erde",
+    "Metal": "Metall",
+    "Fire": "Feuer",
     "Dragon": "Drache",
-    "Spellcaster": "Zauberer",
-    "Warrior": "Krieger",
-    "Beast": "Bestie",
-    "Plant": "Pflanze",
-    "Rock": "Stein",
     "Phoenix": "Phönix",
-    "Undead": "Untoter",
-    "Aqua": "Wasser",
-    "Insect": "Insekt",
-    "Machine": "Maschine",
-    "Pyro": "Feuer"
+    "Warrior": "Krieger",
+    "Thunder": "Donner"
   },
   "attributes": {
     "Light": "Licht",

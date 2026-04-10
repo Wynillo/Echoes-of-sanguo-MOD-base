@@ -499,18 +499,15 @@
     "39": { "name": "Cao Cao", "title": "The Man Behind It All", "flavor": "Duel Master C — the true master." }
   },
   "races": {
+    "Water": "Water",
+    "Wood": "Wood",
+    "Earth": "Earth",
+    "Metal": "Metal",
+    "Fire": "Fire",
     "Dragon": "Dragon",
-    "Spellcaster": "Spellcaster",
-    "Warrior": "Warrior",
-    "Beast": "Beast",
-    "Plant": "Plant",
-    "Rock": "Rock",
     "Phoenix": "Phoenix",
-    "Undead": "Undead",
-    "Aqua": "Aqua",
-    "Insect": "Insect",
-    "Machine": "Machine",
-    "Pyro": "Pyro"
+    "Warrior": "Warrior",
+    "Thunder": "Thunder"
   },
   "attributes": {
     "Light": "Light",
