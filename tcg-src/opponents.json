@@ -76,6 +76,7 @@
     "race": 1,
     "coinsWin": 200,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [1, 2, 3, 5, 6, 7, 8, 9, 9, 181, 181, 182, 211, 212, 102, 191],
     "behavior": "smart"
   },
@@ -84,6 +85,7 @@
     "race": 2,
     "coinsWin": 220,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [19, 20, 21, 23, 24, 25, 26, 27, 27, 183, 183, 184, 213, 214, 105, 192],
     "behavior": "aggressive"
   },
@@ -92,6 +94,7 @@
     "race": 3,
     "coinsWin": 240,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [37, 38, 39, 41, 42, 43, 44, 45, 45, 185, 185, 186, 215, 216, 108, 116],
     "behavior": "defensive"
   },
@@ -100,6 +103,7 @@
     "race": 4,
     "coinsWin": 260,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [55, 56, 57, 59, 60, 61, 62, 63, 63, 187, 187, 188, 217, 226, 227, 119, 193],
     "behavior": "smart"
   },
@@ -108,6 +112,7 @@
     "race": 5,
     "coinsWin": 280,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [73, 74, 75, 77, 78, 79, 80, 81, 81, 189, 189, 190, 218, 218, 121, 194],
     "behavior": "aggressive"
   },
@@ -116,6 +121,7 @@
     "race": 6,
     "coinsWin": 300,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [91, 92, 93, 95, 96, 97, 98, 99, 99, 191, 191, 192, 219, 219, 123, 124],
     "behavior": "defensive"
   },
@@ -124,6 +130,7 @@
     "race": 7,
     "coinsWin": 320,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [109, 110, 111, 113, 114, 115, 116, 117, 117, 193, 193, 194, 220, 220, 126, 96],
     "behavior": "smart"
   },
@@ -132,6 +139,7 @@
     "race": 8,
     "coinsWin": 340,
     "coinsLoss": 0,
+    "currencyId": "moderncoins",
     "deckIds": [127, 128, 129, 131, 132, 133, 134, 135, 135, 195, 195, 196, 221, 229, 230, 179, 98],
     "behavior": "aggressive"
   },
@@ -140,6 +148,7 @@
     "race": 9,
     "coinsWin": 350,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [145, 146, 147, 149, 150, 151, 152, 153, 153, 197, 197, 198, 222, 222, 180, 102],
     "behavior": "defensive"
   },
@@ -148,6 +157,7 @@
     "race": 1,
     "coinsWin": 360,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 181, 181, 182, 182, 211, 212, 105, 108, 191],
     "behavior": "smart"
   },
@@ -156,6 +166,7 @@
     "race": 2,
     "coinsWin": 380,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 183, 183, 184, 184, 213, 214, 116, 192, 193],
     "behavior": "aggressive"
   },
@@ -164,6 +175,7 @@
     "race": 3,
     "coinsWin": 400,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 185, 185, 186, 186, 215, 216, 119, 194, 121],
     "behavior": "defensive"
   },
@@ -172,6 +184,7 @@
     "race": 4,
     "coinsWin": 420,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 187, 187, 188, 188, 217, 226, 227, 123, 124, 96],
     "behavior": "smart"
   },
@@ -180,6 +193,7 @@
     "race": 5,
     "coinsWin": 440,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 189, 189, 190, 190, 218, 218, 126, 179, 98],
     "behavior": "aggressive"
   },
@@ -188,6 +202,7 @@
     "race": 6,
     "coinsWin": 460,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 191, 191, 192, 192, 219, 219, 180, 102, 191],
     "behavior": "defensive"
   },
@@ -196,6 +211,7 @@
     "race": 7,
     "coinsWin": 480,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 193, 193, 194, 194, 220, 220, 191, 192, 105],
     "behavior": "smart"
   },
@@ -204,6 +220,7 @@
     "race": 8,
     "coinsWin": 490,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 195, 195, 196, 196, 221, 229, 230, 193, 194, 108],
     "behavior": "aggressive"
   },
@@ -212,6 +229,7 @@
     "race": 9,
     "coinsWin": 500,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 197, 197, 198, 198, 222, 222, 116, 119, 121],
     "behavior": "defensive"
   },
@@ -220,6 +238,7 @@
     "race": 1,
     "coinsWin": 500,
     "coinsLoss": 0,
+    "currencyId": "ancientcoins",
     "deckIds": [10, 11, 12, 13, 14, 15, 15, 16, 17, 18, 171, 172, 181, 181, 182, 182, 211, 212, 123, 124, 179, 180],
     "behavior": "smart"
   },
@@ -228,6 +247,7 @@
     "race": 2,
     "coinsWin": 530,
     "coinsLoss": 10,
+    "currencyId": "ancientcoins",
     "deckIds": [28, 29, 30, 31, 32, 33, 33, 34, 35, 36, 173, 174, 183, 183, 184, 184, 213, 214, 126, 191, 192, 193],
     "behavior": "aggressive"
   },
@@ -236,6 +256,7 @@
     "race": 3,
     "coinsWin": 560,
     "coinsLoss": 20,
+    "currencyId": "ancientcoins",
     "deckIds": [46, 47, 48, 49, 50, 51, 51, 52, 53, 54, 175, 176, 185, 185, 186, 186, 215, 216, 179, 194, 116, 119],
     "behavior": "smart"
   },
@@ -244,6 +265,7 @@
     "race": 5,
     "coinsWin": 590,
     "coinsLoss": 20,
+    "currencyId": "ancientcoins",
     "deckIds": [82, 83, 84, 85, 86, 87, 87, 88, 89, 90, 177, 178, 189, 189, 190, 190, 218, 218, 180, 121, 123, 194],
     "behavior": "aggressive"
   },
@@ -252,6 +274,7 @@
     "race": 6,
     "coinsWin": 620,
     "coinsLoss": 30,
+    "currencyId": "ancientcoins",
     "deckIds": [100, 101, 102, 103, 104, 105, 105, 106, 107, 108, 163, 164, 165, 166, 191, 191, 192, 192, 219, 219, 179, 180, 126, 191],
     "behavior": "smart"
   },
@@ -260,6 +283,7 @@
     "race": 7,
     "coinsWin": 650,
     "coinsLoss": 30,
+    "currencyId": "ancientcoins",
     "deckIds": [118, 119, 120, 121, 122, 123, 123, 124, 125, 126, 169, 170, 179, 180, 193, 193, 194, 194, 220, 220, 191, 192, 193, 194, 179],
     "behavior": "aggressive"
   },
@@ -268,6 +292,7 @@
     "race": 8,
     "coinsWin": 670,
     "coinsLoss": 40,
+    "currencyId": "ancientcoins",
     "deckIds": [136, 137, 138, 139, 140, 141, 141, 142, 143, 144, 165, 166, 167, 168, 195, 195, 196, 196, 229, 230, 179, 180, 123, 124, 96],
     "behavior": "smart"
   },
@@ -276,6 +301,7 @@
     "race": 9,
     "coinsWin": 700,
     "coinsLoss": 50,
+    "currencyId": "ancientcoins",
     "deckIds": [154, 155, 156, 157, 158, 159, 159, 160, 161, 162, 171, 172, 197, 197, 198, 198, 222, 222, 180, 126, 119, 121, 98],
     "behavior": "aggressive"
   },
@@ -284,6 +310,7 @@
     "race": 6,
     "coinsWin": 750,
     "coinsLoss": 50,
+    "currencyId": "ancientcoins",
     "deckIds": [105, 106, 107, 108, 85, 86, 87, 88, 177, 178, 163, 164, 191, 191, 192, 192, 189, 189, 190, 190, 219, 218, 179, 180, 191, 192, 193],
     "behavior": "cheating"
   },
@@ -292,6 +319,7 @@
     "race": 7,
     "coinsWin": 850,
     "coinsLoss": 70,
+    "currencyId": "ancientcoins",
     "deckIds": [123, 124, 125, 126, 159, 160, 161, 162, 179, 180, 171, 172, 169, 170, 193, 193, 197, 197, 220, 222, 179, 180, 194, 123, 124],
     "behavior": "cheating"
   },
@@ -300,6 +328,7 @@
     "race": 4,
     "coinsWin": 900,
     "coinsLoss": 80,
+    "currencyId": "ancientcoins",
     "deckIds": [70, 71, 72, 141, 142, 143, 144, 163, 164, 167, 168, 165, 166, 187, 188, 195, 196, 233, 234, 235, 226, 227, 179, 180, 126, 191, 192],
     "behavior": "cheating"
   },
@@ -308,6 +337,7 @@
     "race": 1,
     "coinsWin": 1000,
     "coinsLoss": 100,
+    "currencyId": "ancientcoins",
     "deckIds": [17, 18, 35, 36, 53, 54, 71, 72, 89, 90, 125, 126, 143, 144, 161, 162, 163, 169, 175, 177, 179, 191, 195, 234, 235, 179, 180, 123, 124, 126, 191, 192, 193, 194],
     "behavior": "cheating"
   }

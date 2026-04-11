@@ -1,4 +1,9 @@
 {
+  "common": {
+    "coins": "Jade Coins",
+    "moderncoins": "Modern Coins",
+    "ancientcoins": "Ancient Coins"
+  },
   "cards": {
     "1": { "name": "Pebble Stream Carp", "description": "A small carp that dwells in the shallows of the Yellow River. Its jade-green scales shimmer faintly in murky water." },
     "2": { "name": "River Marsh Sprite", "description": "A low spirit born from stagnant marshland. It moves without sound and leaves ripples shaped like a sleeping fish." },

@@ -1,4 +1,9 @@
 {
+  "common": {
+    "coins": "Jade-Münzen",
+    "moderncoins": "Moderne Münzen",
+    "ancientcoins": "Antike Münzen"
+  },
   "cards": {
     "1": { "name": "Schattenbrut", "description": "Ein furchteinflößender Drache, der dunkle Energie beherrscht." },
     "2": { "name": "Dunkelschuppen-Drake", "description": "Ein furchteinflößender Drache, der dunkle Energie beherrscht." },
