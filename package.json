@@ -5,16 +5,14 @@
   "type": "module",
   "main": "./dist/base.tcg",
   "exports": {
-    "./mod.json": "./tcg-src/mod.json",
     "./tcg": "./dist/base.tcg"
   },
   "files": [
-    "dist",
-    "tcg-src/mod.json"
+    "dist"
   ],
   "scripts": {
-    "build:tcg": "vite-node scripts/build-tcg.ts",
-    "validate": "vite-node scripts/validate-tcg.ts",
+    "build:tcg": "mkdir -p dist && tcg-format pack ./tcg-src -o ./dist/base.tcg",
+    "validate": "tcg-format validate ./tcg-src",
     "prepare": "npm run build:tcg"
   },
   "repository": {
@@ -25,9 +23,5 @@
   "license": "MIT",
   "dependencies": {
     "@wynillo/tcg-format": "github:Wynillo/Echoes-of-Sanguo-TCG#main"
-  },
-  "devDependencies": {
-    "typescript": "~5.8.0",
-    "vite-node": "^3.1.0"
   }
 }
