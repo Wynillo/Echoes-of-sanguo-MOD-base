@@ -11,7 +11,7 @@
     "dist"
   ],
   "scripts": {
-    "build:tcg": "mkdir -p dist && tcg-format pack ./tcg-src -o ./dist/base.tcg",
+    "build:tcg": "node -e \"require('fs').mkdirSync('dist',{recursive:true})\" && tcg-format pack ./tcg-src -o ./dist/base.tcg",
     "validate": "tcg-format validate ./tcg-src",
     "prepare": "npm run build:tcg"
   },
